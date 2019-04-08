@@ -7,7 +7,7 @@ class App extends React.PureComponent {
     return (
       <div>
         <header>
-          Marcelo & Anna's Garage Sale
+          Marcelo & Anna&#39;s Garage Sale
         </header>
         <ProductList products={sortedProducts} />
       </div>
