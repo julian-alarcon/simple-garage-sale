@@ -26,8 +26,8 @@ const products = [
     name: 'iPhone XS Space Grey 64GB',
     url: 'https://www.apple.com/br/shop/buy-iphone/iphone-xs/tela-de-5,8-polegadas-64gb-cinza-espacial',
     imageUrl: 'https://i.expansys.net/img/p/313672/apple-iphone-xs-a1920.jpg',
-    originalPrice: 6569.1,
-    price: 4199,
+    originalPrice: 5455.99,
+    price: 3999,
     details: [
       '7 meses de garantia Apple',
     ]
@@ -60,8 +60,8 @@ const products = [
     originalPrice: 2499,
     price: 1499,
     details: [
-      '4K de Verdade com HDR Premium',
-      'Controle Remoto Único',
+      '4K de verdade com HDR Premium',
+      'controle remoto único',
     ]
   },
   {
@@ -97,4 +97,17 @@ const products = [
       'WD106UHSAWQ',
     ]
   },
+  {
+    name: 'iPhone 8 Gold 64GB',
+    url: 'https://www.apple.com/br/shop/buy-iphone/iphone-8/tela-de-4,7-polegadas-64gb-dourado',
+    imageUrl: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone8/gold/iphone8-gold-select-2018?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1550795416637',
+    originalPrice: 2991.12,
+    price: 2499,
+    details: [
+      'novo, sem 1 arranhão',
+      'sempre usado com película e capa',
+      'funcionando perfeitamente :)'
+    ]
+  },
+
 ]
