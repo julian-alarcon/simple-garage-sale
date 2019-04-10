@@ -2,7 +2,7 @@
 
 class App extends React.PureComponent {
   render () {
-    const sortedProducts = this.props.products.sort((a, b) => b.price - a.price)
+    const sortedProducts = this.props.products.sort((a, b) => a.price - b.price)
 
     return (
       <div>
@@ -33,6 +33,7 @@ const ProductCard = props => {
     'pt-BR',
     { style: 'currency', currency: 'BRL' }
   )
+  const discount = Math.round(100 - (p.price / p.originalPrice * 100))
 
   return (
     <a href={p.url} target="_blank">
@@ -40,9 +41,7 @@ const ProductCard = props => {
         <img src={p.imageUrl} />
         <div className="product-details">
           <h3>{p.name}</h3>
-          <span className="discount">
-            {Math.round(100 - (p.price / p.originalPrice * 100))}%
-          </span>
+          {discount > 0 && <span className="discount">-{discount}%</span>}
           <ul>
             {p.details.map(detail => <li>{detail}</li>)}
           </ul>
