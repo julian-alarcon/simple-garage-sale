@@ -14,7 +14,7 @@ const products = [
   {
     name: 'Cadeira Herman Miller Sayl Preta',
     url: 'https://store.hermanmiller.com.br/cadeira-sayl-preta-as2-0002-preto/p',
-    imageUrl: 'https://hermanmiller.vteximg.com.br/arquivos/ids/156102/AS2VA22HAN2C7_011.jpg?v=636480937955030000',
+    imageUrl: 'https://hermanmiller.vteximg.com.br/arquivos/ids/158889/cadeira_sayl_preta_AS2VA22HA-0002_1.jpg?v=636905245002930000',
     originalPrice: 4410,
     price: 2499,
     details: [
