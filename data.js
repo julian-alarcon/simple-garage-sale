@@ -51,6 +51,7 @@ const products = [
     price: 899,
     details: [
       'menos de 2 anos de uso',
+      '12,000 BTU/h',
     ]
   },
   {
@@ -104,7 +105,7 @@ const products = [
     originalPrice: 2991.12,
     price: 2499,
     details: [
-      'novo, sem 1 arranhão',
+      'sem 1 arranhão',
       'sempre usado com película e capa',
       'funcionando perfeitamente :)'
     ]
