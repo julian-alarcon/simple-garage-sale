@@ -38,6 +38,7 @@ const ProductCard = props => {
   return (
     <a href={p.url} target="_blank">
       <div className="product">
+        {p.sold && <div className="sold">VENDIDO</div>}
         <img src={p.imageUrl} />
         <div className="product-details">
           <h3>{p.name}</h3>

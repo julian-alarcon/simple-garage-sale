@@ -83,3 +83,16 @@ header {
   text-align: right;
   padding-right: 16px;
 }
+
+.sold {
+  position: relative;
+  /* top: 200px; */
+  background-color: crimson;
+  /* height: 50px; */
+  width: 100%;
+  color: #FFF;
+  line-height: 50px;
+  text-align: center;
+  font-size: 27px;
+  /* transform: rotate(-30deg); */
+}
