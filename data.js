@@ -137,5 +137,50 @@ const products = [
       'funcionando perfeitamente :)'
     ]
   },
-
+  {
+    name: 'Espelho Adnet',
+    url: '',
+    imageUrl: 'https://cdn.leroymerlin.com.br/products/espelho_decorativo_adnet_branco_com_alca_caramelo_60x40cm_89664071_0001_600x600.jpg',
+    originalPrice: 350,
+    price: 250,
+    details: [
+      'Menos de 1 ano de uso',
+      'A: 60cm, L: 40cm, P: 4cm',
+      'Diâmetro: 40cm',
+    ]
+  },
+  {
+    name: 'Cadeira Charles Eames Eiffel Base Madeira',
+    url: 'https://www.americanas.com.br/produto/32302520/cadeira-charles-eames-eiffel-base-madeira-branco?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_mv_todas_geral_gmv&gclid=EAIaIQobChMIpKrFgab94QIViA6RCh0TTgYlEAQYBCABEgItv_D_BwE&i=5ab9c181eec3dfb1f891be8a&o=5a944839ebb19ac62c2ccc66&opn=YSMESP&sellerId=29709769000165',
+    imageUrl: 'https://images-americanas.b2w.io/produtos/01/00/oferta/32302/5/32302522_3GG.jpg',
+    originalPrice: 158,
+    price: 100,
+    details: [
+      'Menos de 1 ano de uso',
+      'Cor: branca',
+    ]
+  },
+  {
+    name: 'Estante Hipster Grandona Mel',
+    url: 'https://www.tadah.com.br/moveis/estante-hipster-grandona-mel.html',
+    imageUrl: 'https://www.tadah.com.br/media/catalog/product/cache/1/image/450x450/9df78eab33525d08d6e5fb8d27136e95/e/s/estante-hipster-mel-lado-grandona.jpg',
+    originalPrice: 167.9,
+    price: 100,
+    details: [
+      'Tamanho: 170 x 65 x 30 cm',
+      'Madeira Pinus de Reflorestamento',
+    ]
+  },
+  {
+    name: 'Base Baú Ortobom Queen',
+    url: 'https://www.ortobom.com.br/cama/base-bau-ortobom-nobuck-cream/queen158',
+    imageUrl: 'https://www.ortobom.com.br/Content/Photo?id=2307&w=770&h=770',
+    originalPrice: 1999,
+    price: 1200,
+    details: [
+      'Tamanho: Queen',
+      'Forração em Couro Nobuck creme',
+      'Sistema de fechamento e abertura com pistões pneumáticos (amortecedores) que facilitam o manuseio',
+    ]
+  },
 ]
