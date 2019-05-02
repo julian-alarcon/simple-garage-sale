@@ -22,16 +22,17 @@ const products = [
       'sim, 7 ANOS',
     ]
   },
-  // {
-  //   name: 'iPhone XS Space Grey 64GB',
-  //   url: 'https://www.apple.com/br/shop/buy-iphone/iphone-xs/tela-de-5,8-polegadas-64gb-cinza-espacial',
-  //   imageUrl: 'https://i.expansys.net/img/p/313672/apple-iphone-xs-a1920.jpg',
-  //   originalPrice: 5455.99,
-  //   price: 3999,
-  //   details: [
-  //     '7 meses de garantia Apple',
-  //   ]
-  // },
+  {
+    name: 'iPhone XS Space Grey 64GB',
+    url: 'https://www.apple.com/br/shop/buy-iphone/iphone-xs/tela-de-5,8-polegadas-64gb-cinza-espacial',
+    imageUrl: 'https://i.expansys.net/img/p/313672/apple-iphone-xs-a1920.jpg',
+    originalPrice: 5455.99,
+    price: 3999,
+    details: [
+      '7 meses de garantia Apple',
+    ],
+    sold: true
+  },
   {
     name: 'Mesa de Jantar com 4 Cadeiras',
     url: '',
@@ -63,7 +64,8 @@ const products = [
     details: [
       'menos de 2 anos de uso',
       'baixo consumo de energia',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Ar-Condicionado Samsung Split Digital Inverter Frio (220 V)',
@@ -74,7 +76,8 @@ const products = [
     details: [
       'menos de 2 anos de uso',
       '12,000 BTU/h',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'TV Samsung KU6450 49” UHD 4K',
@@ -85,7 +88,8 @@ const products = [
     details: [
       '4K de verdade com HDR Premium',
       'controle remoto único',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Fogão 5 Bocas Electrolux Duplo Forno Grill 76DTX',
@@ -118,7 +122,8 @@ const products = [
     details: [
       'menos de 2 anos de uso',
       'WD106UHSAWQ',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'iPhone 8 Gold 64GB',
