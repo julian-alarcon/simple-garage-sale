@@ -147,7 +147,8 @@ const products = [
       'Menos de 1 ano de uso',
       'A: 60cm, L: 40cm, P: 4cm',
       'Diâmetro: 40cm',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Cadeira Charles Eames Eiffel Base Madeira',
@@ -169,7 +170,8 @@ const products = [
     details: [
       'Tamanho: 170 x 65 x 30 cm',
       'Madeira Pinus de Reflorestamento',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Base Baú Ortobom Queen',
