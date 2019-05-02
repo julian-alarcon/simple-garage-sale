@@ -22,14 +22,36 @@ const products = [
       'sim, 7 ANOS',
     ]
   },
+  // {
+  //   name: 'iPhone XS Space Grey 64GB',
+  //   url: 'https://www.apple.com/br/shop/buy-iphone/iphone-xs/tela-de-5,8-polegadas-64gb-cinza-espacial',
+  //   imageUrl: 'https://i.expansys.net/img/p/313672/apple-iphone-xs-a1920.jpg',
+  //   originalPrice: 5455.99,
+  //   price: 3999,
+  //   details: [
+  //     '7 meses de garantia Apple',
+  //   ]
+  // },
   {
-    name: 'iPhone XS Space Grey 64GB',
-    url: 'https://www.apple.com/br/shop/buy-iphone/iphone-xs/tela-de-5,8-polegadas-64gb-cinza-espacial',
-    imageUrl: 'https://i.expansys.net/img/p/313672/apple-iphone-xs-a1920.jpg',
-    originalPrice: 5455.99,
-    price: 3999,
+    name: 'Mesa de Jantar com 4 Cadeiras',
+    url: '',
+    imageUrl: 'img/mesa-jantar.jpg',
+    originalPrice: 2200,
+    price: 2200,
     details: [
-      '7 meses de garantia Apple',
+      'Tampo de Vidro',
+      'Tamanho: 1,40 x 1,40',
+    ]
+  },
+  {
+    name: 'Sofá 4 Lugares Chase Retrátil',
+    url: '',
+    imageUrl: 'img/sofa.jpg',
+    originalPrice: 2200,
+    price: 2200,
+    details: [
+      'Tamanho: 2,80 x 1,15',
+      'Chase aberto: 1,80',
     ]
   },
   {
