@@ -148,7 +148,6 @@ const products = [
       'A: 60cm, L: 40cm, P: 4cm',
       'Diâmetro: 40cm',
     ],
-    sold: true
   },
   {
     name: 'Cadeira Charles Eames Eiffel Base Madeira',
