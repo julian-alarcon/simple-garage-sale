@@ -20,7 +20,8 @@ const products = [
     details: [
       '7 anos de garantia Herman Miller',
       'sim, 7 ANOS',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'iPhone XS Space Grey 64GB',
