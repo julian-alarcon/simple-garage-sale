@@ -9,7 +9,8 @@ const products = [
       '9 meses de garantia Samsung',
       '3 meses de uso',
       'todos os manuais e acessórios',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Cadeira Herman Miller Sayl Preta',
