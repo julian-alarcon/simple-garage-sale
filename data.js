@@ -184,6 +184,7 @@ const products = [
       'Tamanho: Queen',
       'Forração em Couro Nobuck creme',
       'Sistema de fechamento e abertura com pistões pneumáticos (amortecedores) que facilitam o manuseio',
-    ]
+    ],
+    sold: true
   },
 ]
