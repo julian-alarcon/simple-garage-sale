@@ -39,8 +39,8 @@ const products = [
     name: 'Mesa de Jantar com 4 Cadeiras',
     url: '',
     imageUrl: 'img/mesa-jantar.jpg',
-    originalPrice: 2200,
-    price: 2200,
+    originalPrice: 1800,
+    price: 1800,
     details: [
       'Tampo de Vidro',
       'Tamanho: 1,40 x 1,40',
@@ -50,8 +50,8 @@ const products = [
     name: 'Sofá 4 Lugares Chase Retrátil',
     url: '',
     imageUrl: 'img/sofa.jpg',
-    originalPrice: 2200,
-    price: 2200,
+    originalPrice: 1800,
+    price: 1800,
     details: [
       'Tamanho: 2,80 x 1,15',
       'Chase aberto: 1,80',
@@ -101,7 +101,8 @@ const products = [
     price: 999,
     details: [
       '6 anos de uso',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Volvo C30 T5 2.5 Automático 2009',
