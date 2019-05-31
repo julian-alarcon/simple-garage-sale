@@ -151,6 +151,7 @@ const products = [
       'A: 60cm, L: 40cm, P: 4cm',
       'Diâmetro: 40cm',
     ],
+    sold: true
   },
   {
     name: 'Cadeira Charles Eames Eiffel Base Madeira',
@@ -161,7 +162,8 @@ const products = [
     details: [
       'Menos de 1 ano de uso',
       'Cor: branca',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Estante Hipster Grandona Mel',
