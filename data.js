@@ -55,7 +55,8 @@ const products = [
     details: [
       'Tamanho: 2,80 x 1,15',
       'Chase aberto: 1,80',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Refrigerador Samsung RT5000K Twin Cooling Plus, 384 L',
