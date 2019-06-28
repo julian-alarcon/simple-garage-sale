@@ -44,7 +44,8 @@ const products = [
     details: [
       'Tampo de Vidro',
       'Tamanho: 1,40 x 1,40',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Sofá 4 Lugares Chase Retrátil',
@@ -115,7 +116,8 @@ const products = [
       '2 anos de garantia contra corrosão da carroceria',
       '72.000 km',
       '230 cavalos',
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Lava & Seca Samsung Seine, 10.1 kg (110 V)',
@@ -139,7 +141,8 @@ const products = [
       'sem 1 arranhão',
       'sempre usado com película e capa',
       'funcionando perfeitamente :)'
-    ]
+    ],
+    sold: true
   },
   {
     name: 'Espelho Adnet',
