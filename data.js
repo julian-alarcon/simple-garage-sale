@@ -157,7 +157,7 @@ const products = [
   },
   {
     name: 'Cadeira Charles Eames Eiffel Base Madeira',
-    url: '',
+    // url: '',
     imageUrl: 'https://images-americanas.b2w.io/produtos/01/00/oferta/32302/5/32302522_3GG.jpg',
     originalPrice: 158,
     price: 100,
@@ -165,19 +165,19 @@ const products = [
       'Menos de 1 ano de uso',
       'Cor: branca',
     ],
-    sold: true
+    reserved: true
   },
   {
     name: 'Estante Hipster Grandona Mel',
     url: 'https://www.tadah.com.br/moveis/estante-hipster-grandona-mel.html',
-    imageUrl: 'https://www.tadah.com.br/media/catalog/product/cache/1/image/450x450/9df78eab33525d08d6e5fb8d27136e95/e/s/estante-hipster-mel-lado-grandona.jpg',
+    imageUrl: 'https://images-americanas.b2w.io/produtos/01/00/oferta/32302/5/32302522_3GG.jpg',
     originalPrice: 167.9,
     price: 100,
     details: [
       'Tamanho: 170 x 65 x 30 cm',
       'Madeira Pinus de Reflorestamento',
     ],
-    sold: true
+    available: true
   },
   {
     name: 'Base Baú Ortobom Queen',

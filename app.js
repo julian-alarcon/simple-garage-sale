@@ -39,6 +39,8 @@ const ProductCard = props => {
     <a href={p.url} target="_blank">
       <div className="product">
         {p.sold && <div className="sold">VENDIDO</div>}
+        {p.reserved && <div className="reserved">RESERVADO</div>}
+        {p.available && <div className="available">DISPONIBLE</div>}
         <img src={p.imageUrl} />
         <div className="product-details">
           <h3>{p.name}</h3>

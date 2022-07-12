@@ -84,10 +84,36 @@ header {
   padding-right: 16px;
 }
 
+.available {
+  position: relative;
+  /* top: 200px; */
+  background-color: #00b652;
+  /* height: 50px; */
+  width: 100%;
+  color: #FFF;
+  line-height: 50px;
+  text-align: center;
+  font-size: 27px;
+  /* transform: rotate(-30deg); */
+}
+
 .sold {
   position: relative;
   /* top: 200px; */
   background-color: #FF0000;
+  /* height: 50px; */
+  width: 100%;
+  color: #FFF;
+  line-height: 50px;
+  text-align: center;
+  font-size: 27px;
+  /* transform: rotate(-30deg); */
+}
+
+.reserved {
+  position: relative;
+  /* top: 200px; */
+  background-color: #0092d6;
   /* height: 50px; */
   width: 100%;
   color: #FFF;
