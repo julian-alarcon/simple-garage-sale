@@ -1,5 +1,7 @@
 # Simple Garage Sale website
 
+Simple website fr Garage Sale made with React
+
 ## Description
 
 ## Test in your local with Docker
@@ -12,7 +14,7 @@ Go to the main path of the directory and use this command
 docker run --rm -p 8080:80 --name web -v $(pwd):/usr/share/nginx/html nginx
 ```
 
-Now your website should be available in the address [http://0.0.0.0:8080](http://0.0.0.0:8080) !
+Now your website should be available in the address [http://0.0.0.0:8080](http://0.0.0.0:8080)!
 
 ## Publish using Github Pages for free
 
