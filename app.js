@@ -7,7 +7,7 @@ class App extends React.PureComponent {
     return (
       <div>
         <header>
-          Marcelo & Anna&#39;s Garage Sale
+          Venta de Cositas de Milena & Julian
         </header>
         <ProductList products={sortedProducts} />
       </div>
@@ -30,8 +30,8 @@ const ProductList = props => {
 const ProductCard = props => {
   const p = props.product
   const formatPrice = p => p.toLocaleString(
-    'pt-BR',
-    { style: 'currency', currency: 'BRL' }
+    'es-CO',
+    { style: 'currency', currency: 'COP' }
   )
   const discount = Math.round(100 - (p.price / p.originalPrice * 100))
 

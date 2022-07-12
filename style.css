@@ -10,7 +10,7 @@ a:link {
 header {
   height: 70px;
   line-height: 70px;
-  background-color: #2C0368;
+  background-color: #000000;
   color: #FFF;
   font-size: 27px;
   margin-bottom: 30px;
@@ -62,7 +62,7 @@ header {
   height: 64px;
   width: 64px;
   line-height: 64px;
-  background-color: #BB86FC;
+  background-color: #7f1bf8;
   border-radius: 50%;
   display: inline-block;
   color: #FFF;
@@ -78,7 +78,7 @@ header {
   height: 60px;
   line-height: 60px;
   color: #FFF;
-  background-color: #6200EE;
+  background-color: #FFCC00;
   font-size: 27px;
   text-align: right;
   padding-right: 16px;
@@ -87,7 +87,7 @@ header {
 .sold {
   position: relative;
   /* top: 200px; */
-  background-color: crimson;
+  background-color: #FF0000;
   /* height: 50px; */
   width: 100%;
   color: #FFF;

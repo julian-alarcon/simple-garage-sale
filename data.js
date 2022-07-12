@@ -2,27 +2,25 @@ const products = [
   {
     name: 'Monitor Samsung Curvo de 34" C34F791WQL',
     url: 'https://www.samsung.com/br/monitors/ultra-wide-c34f791/',
-    imageUrl: 'https://images.samsung.com/is/image/samsung/br-ultra-wide-c34f791-lc34f791wqlxzd-dynamicwhite-72942896?$PD_GALLERY_L_JPG$',
-    originalPrice: 4499.1,
+    imageUrl: 'img/sofa.jpg',
     price: 2499,
     details: [
       '9 meses de garantia Samsung',
       '3 meses de uso',
       'todos os manuais e acessórios',
     ],
-    sold: true
+    sold: false
   },
   {
     name: 'Cadeira Herman Miller Sayl Preta',
     url: 'https://store.hermanmiller.com.br/cadeira-sayl-preta-as2-0002-preto/p',
     imageUrl: 'https://hermanmiller.vteximg.com.br/arquivos/ids/158889/cadeira_sayl_preta_AS2VA22HA-0002_1.jpg?v=636905245002930000',
-    originalPrice: 4410,
     price: 2499,
     details: [
       '7 anos de garantia Herman Miller',
       'sim, 7 ANOS',
     ],
-    sold: true
+    sold: false
   },
   {
     name: 'iPhone XS Space Grey 64GB',
@@ -33,7 +31,7 @@ const products = [
     details: [
       '7 meses de garantia Apple',
     ],
-    sold: true
+    sold: false
   },
   {
     name: 'Mesa de Jantar com 4 Cadeiras',
@@ -45,7 +43,7 @@ const products = [
       'Tampo de Vidro',
       'Tamanho: 1,40 x 1,40',
     ],
-    sold: true
+    sold: false
   },
   {
     name: 'Sofá 4 Lugares Chase Retrátil',
@@ -57,7 +55,7 @@ const products = [
       'Tamanho: 2,80 x 1,15',
       'Chase aberto: 1,80',
     ],
-    sold: true
+    sold: false
   },
   {
     name: 'Refrigerador Samsung RT5000K Twin Cooling Plus, 384 L',
@@ -69,7 +67,7 @@ const products = [
       'menos de 2 anos de uso',
       'baixo consumo de energia',
     ],
-    sold: true
+    sold: false
   },
   {
     name: 'Ar-Condicionado Samsung Split Digital Inverter Frio (220 V)',
@@ -81,7 +79,7 @@ const products = [
       'menos de 2 anos de uso',
       '12,000 BTU/h',
     ],
-    sold: true
+    sold: false
   },
   {
     name: 'TV Samsung KU6450 49” UHD 4K',
@@ -159,7 +157,7 @@ const products = [
   },
   {
     name: 'Cadeira Charles Eames Eiffel Base Madeira',
-    url: 'https://www.americanas.com.br/produto/32302520/cadeira-charles-eames-eiffel-base-madeira-branco?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_mv_todas_geral_gmv&gclid=EAIaIQobChMIpKrFgab94QIViA6RCh0TTgYlEAQYBCABEgItv_D_BwE&i=5ab9c181eec3dfb1f891be8a&o=5a944839ebb19ac62c2ccc66&opn=YSMESP&sellerId=29709769000165',
+    url: '',
     imageUrl: 'https://images-americanas.b2w.io/produtos/01/00/oferta/32302/5/32302522_3GG.jpg',
     originalPrice: 158,
     price: 100,
