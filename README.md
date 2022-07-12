@@ -1,11 +1,17 @@
 # Simple Garage Sale website
 
-# Credits
+## Description
+
+## Build in your local
+
+## Publish using Github Pages for free!
+
+## Credits
 
 * Julian Alarcon
 * Milena Suarez
 
-# License
+## License
 
 MIT License
 
