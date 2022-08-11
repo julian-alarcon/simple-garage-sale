@@ -20,7 +20,7 @@ const products = [
     originalPrice: 459900,
     price: 200000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       'Como nuevo!',
     ],
     // sold: false
@@ -32,7 +32,7 @@ const products = [
     imageUrl: 'img/comoda.jpg',
     price: 80000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       'Comoda cafe con 3 cajones',
       '80 cm ancho x 75 cm alto x 38 cm profundo',
       'Buen estado!',
@@ -47,7 +47,7 @@ const products = [
     originalPrice: 1899900,
     price: 1200000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       'Netflix/YouTube/PrimeVideo/Spotify',
       '4K, 3 puertos HDMI, Internet Wifi, TDT, Incluye control remoto',
       'Buen estado!',
@@ -60,7 +60,7 @@ const products = [
     imageUrl: 'img/rascador.jpg',
     price: 90000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       'Rascador amarillo/negro',
       'Altura 165 cm',
       'Poco uso',
@@ -89,7 +89,7 @@ const products = [
     originalPrice: 1549000,
     price: 750000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       'Congelador no frost, modalidad ahorradora',
       'Algunos arañazos menores, 100 funcional',
     ],
@@ -103,7 +103,7 @@ const products = [
     originalPrice: 2050000,
     price: 1700000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       'Lavadora secadora (electrica)',
       '60 cm ancho x 85 cm alto x 65 cm profundo',
       'Como nueva! Menos de 1 año de uso',
@@ -117,7 +117,7 @@ const products = [
     originalPrice: 300000,
     price: 150000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       'Tapete gris con franjas hecho en Turquia',
       'Como nuevo!',
     ],
@@ -131,7 +131,7 @@ const products = [
     originalPrice: 1400000,
     price: 1000000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       'Realmente funciona! Tenemos 2 gatos y esta sin 1 rasguño!',
       '3 posiciones, bastante comodo. Producto colombiano',
       'Sofa: 182 cm ancho x 95 cm alto x 94 cm profundo',
@@ -161,7 +161,7 @@ const products = [
     imageUrl: 'img/cama.jpg',
     price: 1200000,
     details: [
-      'ENTREGA 02 de Septiembre',
+      'ENTREGA 08 de Septiembre',
       '1 cama doble, 2 mesas de noche',
       'Se entrega con Colchon Ortopedico Paraiso Ortholife , 1 plumon, 2 Duvet',
       'Como nuevo!',
@@ -262,10 +262,10 @@ const products = [
     url: 'img/maleta-camping-collage.jpg',
     imageUrl: 'img/maleta-camping.jpg',
     originalPrice: 70000,
-    price: 20000,
+    price: 30000,
     details: [
       'ENTREGA INMEDIATA',
-      'Roja, capacidad 17 Litros (No incluye gatos)',
+      'Roja, capacidad 70 Litros (No incluye gatos)',
       'Como nueva!',
     ],
     // sold: false
