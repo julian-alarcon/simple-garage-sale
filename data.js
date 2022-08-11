@@ -28,7 +28,7 @@ const products = [
   },
   {
     name: 'Mueble Comoda',
-    url: 'img/comoda-collage.jpg',
+    url: 'img/comoda2.jpg',
     imageUrl: 'img/comoda.jpg',
     price: 80000,
     details: [
@@ -113,7 +113,6 @@ const products = [
   },
   {
     name: 'Tapete Gris',
-    url: 'img/tapete-collage.jpg',
     imageUrl: 'img/tapete.jpg',
     originalPrice: 300000,
     price: 150000,
@@ -188,8 +187,8 @@ const products = [
   },
   {
     name: 'Bicicleta Todoterreno GW negro con verde',
-    url: 'img/bicicleta-gris-collage.jpg',
-    imageUrl: 'img/bicicleta-gris.jpg',
+    url: 'img/bicicleta-verde-collage.jpg',
+    imageUrl: 'img/bicicleta-verde.jpg',
     originalPrice: 900000,
     price: 700000,
     details: [
@@ -237,7 +236,7 @@ const products = [
     price: 700000,
     details: [
       'ENTREGA INMEDIATA',
-      'Compatible con Google Assistant, programacion desde App',
+      'Compatible con Google Assistant, programacion desde App. 415 limpiezas realizadas',
       'Buen estado!',
     ],
     // sold: false
