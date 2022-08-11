@@ -70,13 +70,13 @@ const products = [
   },
   {
     name: 'Fuente flor de agua para gatos Catit (mas repuesto) original',
-    url: 'https://www.catit.com/products/drinking-fountains/flower-fountains/#original-flower-fountain',
+    url: 'https://usa.catit.com/shop/flower-fountain/',
     imageUrl: 'img/fuente.jpg',
     originalPrice: 119000,
     price: 45000,
     details: [
       'ENTREGA 10 de Septiembre',
-      'Menos de 2 años de uso',
+      'Menos de 2 años de uso, 3 litros, 3 tipos de agua, triple filtro (pelos, calcio, olores)',
       'Raspada pero 100% funcional',
     ],
     // sold: false
@@ -252,6 +252,21 @@ const products = [
     details: [
       'ENTREGA INMEDIATA',
       'Impermeable, blanca, 1.3 KG, Alto: 105cm - Largo: 200cm - Ancho: 120cm',
+      'Como nueva!',
+    ],
+    // sold: false
+    available: true
+  },
+  ,
+  {
+    name: 'Maleta Camping roja',
+    url: 'img/maleta-camping-collage.jpg',
+    imageUrl: 'img/maleta-camping.jpg',
+    originalPrice: 70000,
+    price: 20000,
+    details: [
+      'ENTREGA INMEDIATA',
+      'Roja, capacidad 17 Litros (No incluye gatos)',
       'Como nueva!',
     ],
     // sold: false
