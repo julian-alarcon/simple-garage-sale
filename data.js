@@ -243,4 +243,18 @@ const products = [
     // sold: false
     available: true
   },
+  {
+    name: 'Carpa 2 persona Quechua Arpenaz 2',
+    url: 'img/carpa-collage.jpg',
+    imageUrl: 'img/carpa.jpg',
+    originalPrice: 250000,
+    price: 200000,
+    details: [
+      'ENTREGA INMEDIATA',
+      'Impermeable, blanca, 1.3 KG, Alto: 105cm - Largo: 200cm - Ancho: 120cm',
+      'Como nueva!',
+    ],
+    // sold: false
+    available: true
+  },
 ]
