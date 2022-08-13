@@ -156,14 +156,14 @@ const products = [
     available: true
   },
   {
-    name: 'Juego de Alcoba, cama doble y mesas de noche',
+    name: 'Juego de Alcoba, cama doble, colchon y mesas de noche',
     url: 'img/cama-collage.jpg',
     imageUrl: 'img/cama.jpg',
-    price: 1200000,
+    price: 1500000,
     details: [
       'ENTREGA 08 de Septiembre',
-      '1 cama doble, 2 mesas de noche',
-      'Se entrega con Colchon Ortopedico Paraiso Ortholife , 1 plumon, 2 Duvet',
+      '1 cama doble, 2 mesas de noche', '200 cm largo x 145 cm largo',
+      'Se entrega con Colchon Ortopedico Paraiso Ortholife, 1 plumon, 2 Duvet',
       'Como nuevo!',
     ],
     // sold: false
@@ -267,6 +267,87 @@ const products = [
       'ENTREGA INMEDIATA',
       'Roja, capacidad 70 Litros (No incluye gatos)',
       'Como nueva!',
+    ],
+    // sold: false
+    available: true
+  },
+  {
+    name: 'Juego 2 de Sillas Bar negras',
+    url: 'img/sillas-collage.jpg',
+    imageUrl: 'img/sillas.jpg',
+    originalPrice: 300000,
+    price: 180000,
+    details: [
+      'ENTREGA 08 de Septiembre',
+      'Sillas graduables en altura',
+      'Como nuevas!',
+    ],
+    // sold: false
+    available: true
+  },
+  {
+    name: 'Juego de Pesas 20Kg',
+    url: 'img/juego-pesas-collage.jpg',
+    imageUrl: 'img/juego-pesas.png',
+    originalPrice: 300000,
+    price: 280000,
+    details: [
+      'ENTREGA INMEDIATA',
+      '2 barras 2Kg, 4 discos 2Kg, 8 discos 1Kg, 4 seguros',
+      'Como nuevo!',
+    ],
+    // sold: false
+    available: true
+  },
+  {
+    name: 'Parlante Inalambrico Origaudio Boxanne',
+    url: 'https://origaudiopromo.com/product/boxanne-wireless-speaker-white/',
+    imageUrl: 'img/parlante.jpg',
+    price: 20000,
+    details: [
+      'ENTREGA INMEDIATA',
+      'Viene con cable microusb y 3.5mm',
+      'Nuevo en caja!',
+    ],
+    // sold: false
+    available: true
+  },
+  {
+    name: 'Bateria portatil 10.000 mA para celular',
+    imageUrl: 'img/bateria.jpg',
+    price: 30000,
+    details: [
+      'ENTREGA INMEDIATA',
+      'Salida USB: 5V/2.0A , Wireless 5V/1.0A. Viene con cable micro USB' ,
+      'Nuevo en caja!',
+    ],
+    // sold: false
+    available: true
+  },
+  {
+    name: '5 Vasos Cristar Schubert Rocks',
+    url: 'https://tienda.cristar.com.co/producto/vaso-schubert-rocks/',
+    imageUrl: 'img/vasos.jpg',
+    originalPrice: 20000,
+    price: 15000,
+    details: [
+      'ENTREGA INMEDIATA',
+      '5 vasos de cristal para bebidas/cocteles',
+      'Perfecto estado',
+    ],
+    // sold: false
+    available: true
+  },
+  {
+    name: 'Sacacorchos',
+    url: 'https://www.homesentry.co/p/sacacorchos-ilko-metalico/',
+    imageUrl: 'img/sacacorchos.jpg',
+    originalPrice: 40000,
+    price: 20000,
+    details: [
+      'ENTREGA INMEDIATA',
+      'Sacacorchos/destapador',
+      'Como nuevo',
     ],
     // sold: false
     available: true
