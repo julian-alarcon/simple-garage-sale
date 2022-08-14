@@ -9,6 +9,10 @@ class App extends React.PureComponent {
         <header>
           Venta de Cositas de Milena & Julian
         </header>
+        <h3 className="subtitle">
+          Se aceptan pagos por <b>Nequi, Colpatria, efectivo o Paypal</b>
+          <p>Al hacer clic sobre las imagenes encontrás mas información</p>
+        </h3>
         <ProductList products={sortedProducts} />
       </div>
     )
@@ -31,17 +35,20 @@ const ProductCard = props => {
   const p = props.product
   const formatPrice = p => p.toLocaleString(
     'es-CO',
-    { style: 'currency', currency: 'COP' }
+    { style: 'currency', currency: 'COP' , maximumFractionDigits: '0'},
   )
   const discount = Math.round(100 - (p.price / p.originalPrice * 100))
 
+  const goWhatsapp = () => window.open(`https://api.whatsapp.com/send?phone=+573006815916&text=Hola%2C%20estoy interesado en%20${p.name}`, '_blank')
+
   return (
-    <a href={p.url} target="_blank">
       <div className="product">
-        {p.sold && <div className="sold">VENDIDO</div>}
-        {p.reserved && <div className="reserved">RESERVADO</div>}
-        {p.available && <div className="available">DISPONIBLE</div>}
-        <img src={p.imageUrl} />
+        <a href={p.url} target="_blank">
+          {p.sold && <div className="sold">VENDIDO</div>}
+          {p.reserved && <div className="reserved">RESERVADO</div>}
+          {p.available && <div className="available">DISPONIBLE</div>}
+          <img className="product-img" src={p.imageUrl} />
+        </a>
         <div className="product-details">
           <h3>{p.name}</h3>
           {discount > 0 && <span className="discount">-{discount}%</span>}
@@ -49,12 +56,15 @@ const ProductCard = props => {
             {p.details.map(detail => <li>{detail}</li>)}
           </ul>
         </div>
-        <div className="price">
-          {formatPrice(p.price)}
+        <div onClick={goWhatsapp} className="box-price">
+          <span className="price">{formatPrice(p.price)}</span>
+          <div className="box">
+            <img className="icon" src="./whatsapp-icon.png"/>
+            <button className="payment">Comprar</button>
+          </div>
         </div>
       </div>
-    </a>
-  )
+  );
 }
 
 ReactDOM.render(

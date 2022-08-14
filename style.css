@@ -5,6 +5,7 @@ body {
 
 a:link {
   text-decoration: none;
+  cursor: pointer;
 }
 
 header {
@@ -16,6 +17,10 @@ header {
   margin-bottom: 30px;
   text-align: center;
   text-transform: uppercase;
+}
+.subtitle {
+  padding: 0 3rem 1rem;
+  text-align: center;
 }
 
 .container {
@@ -29,14 +34,13 @@ header {
   width: 350px;
   border-radius: 8px;
   margin-bottom: 40px;
-  cursor: pointer;
   overflow: hidden;
   align-self: flex-start;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.12),
               0 2px 4px 0 rgba(0,0,0,0.08);
 }
 
-.product img {
+.product-img {
   width: 350px;
   object-fit: scale-down;
   border-bottom: 1px solid #D6D6D6;
@@ -79,9 +83,11 @@ header {
   line-height: 60px;
   color: #FFF;
   background-color: #FFCC00;
-  font-size: 27px;
-  text-align: right;
-  padding-right: 16px;
+  text-align: left;
+  padding-left: 18px;
+  font-size: 24px;
+  width: 100%; 
+  cursor: pointer;
 }
 
 .available {
@@ -94,6 +100,28 @@ header {
   line-height: 50px;
   text-align: center;
   font-size: 27px;
+  /* transform: rotate(-30deg); */
+}
+
+.icon {
+  width: 26px;
+  height: 26px;
+}
+
+.payment {
+  position: relative;
+  /* top: 200px; */
+  background-color: #00b652;
+  /* height: 50px; */
+  width: 100%;
+  color: #FFF;
+  text-align: right;
+  font-size: 24px;
+  cursor: pointer;
+  border: 0;
+  bottom: 0;
+  height: 60px;
+  line-height: 60px;
   /* transform: rotate(-30deg); */
 }
 
@@ -121,4 +149,18 @@ header {
   text-align: center;
   font-size: 27px;
   /* transform: rotate(-30deg); */
+}
+
+.box-price {
+  display: flex;
+  font-size: 18px;
+}
+
+.box {
+  display: flex;
+  width: 50%;
+  font-size: 18px;
+  background-color: #00b652;
+  align-items: center;
+  padding: 0 16px;
 }
