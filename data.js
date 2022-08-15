@@ -1,6 +1,6 @@
 const products = [
   {
-    name: 'Balanza Xiaomi Mi Body Composition Scale 2',
+    name: 'Bascula Xiaomi Mi Body Composition Scale 2',
     url: 'https://www.mi.com/mx/product/mi-body-composition-scale-2/',
     imageUrl: 'img/xiaomi-scale.png',
     originalPrice: 70000,
