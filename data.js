@@ -1,6 +1,6 @@
 const products = [
   {
-    name: 'Xiaomi Mi Body Composition Scale 2',
+    name: 'Balanza Xiaomi Mi Body Composition Scale 2',
     url: 'https://www.mi.com/mx/product/mi-body-composition-scale-2/',
     imageUrl: 'img/xiaomi-scale.png',
     originalPrice: 70000,
@@ -53,7 +53,7 @@ const products = [
       'Buen estado!',
     ],
     // sold: false
-    available: true
+    reserved: true,
   },
   {
     name: 'Rascador gatos 3 niveles',
@@ -156,14 +156,14 @@ const products = [
     available: true
   },
   {
-    name: 'Juego de Alcoba, cama doble, colchon y mesas de noche',
+    name: 'Juego de Alcoba, cama doble y mesas de noche',
     url: 'img/cama-collage.jpg',
     imageUrl: 'img/cama.jpg',
     price: 1500000,
     details: [
       'ENTREGA 08 de Septiembre',
       '1 cama doble, 2 mesas de noche', '200 cm largo x 145 cm largo',
-      'Se entrega con Colchon Ortopedico Paraiso Ortholife, 1 plumon, 2 Duvet',
+      'Se entrega con 1 plumon, 2 Duvet',
       'Como nuevo!',
     ],
     // sold: false
@@ -213,7 +213,6 @@ const products = [
       'Como nuevo!',
     ],
     // sold: false,
-    reserved: true,
   },
   {
     name: 'Parlante Google Home Mini Gris',
