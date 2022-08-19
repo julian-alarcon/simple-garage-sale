@@ -5,17 +5,29 @@ body {
 
 a:link {
   text-decoration: none;
+  cursor: pointer;
 }
 
 header {
-  height: 70px;
-  line-height: 70px;
-  background-color: #2C0368;
+  line-height: 30px;
+  background-color: #000000;
   color: #FFF;
-  font-size: 27px;
-  margin-bottom: 30px;
+  font-size: 20px;
+  margin-bottom: 10px;
   text-align: center;
   text-transform: uppercase;
+}
+
+.subtitle {
+  padding: 0 0.5rem 0;
+  text-align: center;
+}
+
+.subtitle h4 {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: smaller;
+  color: orangered;
 }
 
 .container {
@@ -29,17 +41,41 @@ header {
   width: 350px;
   border-radius: 8px;
   margin-bottom: 40px;
-  cursor: pointer;
   overflow: hidden;
   align-self: flex-start;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.12),
               0 2px 4px 0 rgba(0,0,0,0.08);
 }
 
-.product img {
+.product-img {
   width: 350px;
   object-fit: scale-down;
   border-bottom: 1px solid #D6D6D6;
+}
+
+.product-img-filter-sold {
+  width: 350px;
+  object-fit: scale-down;
+  filter: grayscale(1);
+  opacity: 0.4;
+  border-bottom: 1px solid #D6D6D6;
+}
+
+.product-img-filter-notavailable {
+  width: 350px;
+  object-fit: scale-down;
+  filter: grayscale(1);
+  opacity: 0.4;
+  border-bottom: 1px solid #D6D6D6;
+}
+
+.product-img-filter-reserved {
+  width: 350px;
+  object-fit: scale-down;
+  opacity: 0.4;
+  border-bottom: 1px solid #D6D6D6;
+  position: relative;
+  z-index: 1;
 }
 
 .product h3 {
@@ -62,7 +98,7 @@ header {
   height: 64px;
   width: 64px;
   line-height: 64px;
-  background-color: #BB86FC;
+  background-color: #7f1bf8;
   border-radius: 50%;
   display: inline-block;
   color: #FFF;
@@ -78,16 +114,18 @@ header {
   height: 60px;
   line-height: 60px;
   color: #FFF;
-  background-color: #6200EE;
-  font-size: 27px;
-  text-align: right;
-  padding-right: 16px;
+  background-color: #FFCC00;
+  text-align: left;
+  padding-left: 18px;
+  font-size: 24px;
+  width: 100%; 
+  cursor: pointer;
 }
 
-.sold {
+.available {
   position: relative;
   /* top: 200px; */
-  background-color: crimson;
+  background-color: #00b652;
   /* height: 50px; */
   width: 100%;
   color: #FFF;
@@ -95,4 +133,92 @@ header {
   text-align: center;
   font-size: 27px;
   /* transform: rotate(-30deg); */
+}
+
+.icon {
+  width: 26px;
+  height: 26px;
+}
+
+.payment {
+  position: relative;
+  /* top: 200px; */
+  background-color: #00b652;
+  /* height: 50px; */
+  width: 100%;
+  color: #FFF;
+  text-align: right;
+  font-size: 24px;
+  cursor: pointer;
+  border: 0;
+  bottom: 0;
+  height: 60px;
+  line-height: 60px;
+  /* transform: rotate(-30deg); */
+}
+
+.sold {
+  /* top: 200px; */
+  background-color: #FF0000;
+  /* height: 50px; */
+  width: 100%;
+  color: #FFF;
+  line-height: 50px;
+  text-align: center;
+  font-size: 27px;
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, -200%);
+  z-index: 2;
+}
+
+.notavailable {
+  /* top: 200px; */
+  background-color: gray;
+  /* height: 50px; */
+  width: 100%;
+  color: #FFF;
+  line-height: 50px;
+  text-align: center;
+  font-size: 27px;
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, -200%);
+  z-index: 2;
+}
+
+.reserved {
+  /* top: 200px; */
+  background-color: #0092d6;
+  /* height: 50px; */
+  width: 100%;
+  color: #FFF;
+  line-height: 50px;
+  text-align: center;
+  font-size: 27px;
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, -200%);
+  z-index: 2;
+}
+
+.box-price {
+  display: flex;
+  font-size: 18px;
+}
+
+.box {
+  display: flex;
+  width: 50%;
+  font-size: 18px;
+  background-color: #00b652;
+  align-items: center;
+  padding: 0 16px;
+}
+
+.product-span {
+  position: relative;
 }
