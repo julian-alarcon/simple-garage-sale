@@ -210,7 +210,7 @@ const products = [
       'Profundida 60cm ancho 110cm altura 74cm',
       'Como nuevo!',
     ],
-    state: "available",
+    state: "reserved",
     purchaser: "id"
   },
   {
