@@ -329,7 +329,7 @@ const products = [
       'Como nuevo!',
     ],
     state: "sold",
-    purchaser: "id"
+    purchaser: "15"
   },
   {
     name: 'Sofacama verde tela antiarañazos!',
