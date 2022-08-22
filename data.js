@@ -328,7 +328,7 @@ const products = [
       'Tapete gris con franjas hecho en Turquia',
       'Como nuevo!',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "id"
   },
   {
