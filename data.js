@@ -65,7 +65,7 @@ const products = [
       'ENTREGA 08 de Septiembre',
       'Como nuevo!',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "9"
   },
   {
@@ -79,7 +79,7 @@ const products = [
       '80 cm ancho x 75 cm alto x 38 cm profundo',
       'Buen estado!',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "2"
   },
   {
@@ -181,7 +181,7 @@ const products = [
       '40cm ancho X 60cm alto. Altura total 120cm incluye borrador de tablero y marcador',
       'Buen estado!',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "11"
   },
   {
@@ -196,7 +196,7 @@ const products = [
       '4K, 3 puertos HDMI, Internet Wifi, TDT, Incluye control remoto',
       'Buen estado!',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "3"
   },
   {
@@ -211,7 +211,7 @@ const products = [
       'Como nuevo!',
     ],
     state: "reserved",
-    purchaser: "id"
+    purchaser: "12"
   },
   {
     name: 'Escritorio Beige',
@@ -237,7 +237,7 @@ const products = [
       'Altura 165 cm',
       'Poco uso',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "6"
   },
   {
@@ -266,7 +266,7 @@ const products = [
       '60 cm ancho x 85 cm alto x 65 cm profundo',
       'Como nueva! Menos de 1 año de uso',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "5"
   },
   {
@@ -296,7 +296,7 @@ const products = [
       'Cama: 182 cm ancho x 60 cm alto x 65 cm profundo',
       'Como nuevo!',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "6"
   },
   {
@@ -394,7 +394,7 @@ const products = [
       '2 barras 2Kg, 4 discos 2Kg, 8 discos 1Kg, 4 seguros',
       'Como nuevo!',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "9"
   },
   {
@@ -419,7 +419,7 @@ const products = [
       'Salida USB: 5V/2.0A , Wireless 5V/1.0A. Viene con cable micro USB' ,
       'Nuevo en caja!',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "10"
   },
   {
@@ -490,8 +490,8 @@ const products = [
       'FALTAN MEDIDAS',
       'Buen estado!',
     ],
-    state: "available",
-    purchaser: "id"
+    state: "sold",
+    purchaser: "13"
   },
   {
     name: 'Casco bicicleta Morado',
