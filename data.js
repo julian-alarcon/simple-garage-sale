@@ -657,7 +657,7 @@ const products = [
       '37.9cm de ancho x 25.5cm de profundidad x 9.5cm de alto',
       'Excelente estado',
     ],
-    state: "available",
-    purchaser: "id"
+    state: "reservada",
+    purchaser: "14"
   }
 ]

@@ -569,7 +569,7 @@
     "originalPrice": 80000,
     "price": 40000,
     "details": [
-      "ENTREGA Inmediata",
+      "ENTREGA INMEDIATA",
       "Casco ",
       "Buen estado! Poco uso"
     ],
@@ -583,7 +583,7 @@
     "originalPrice": 80000,
     "price": 40000,
     "details": [
-      "ENTREGA Inmediata",
+      "ENTREGA INMEDIATA",
       "Casco de bicicleta",
       "Buen estado! Poco uso"
     ],
@@ -658,7 +658,7 @@
       "37.9cm de ancho x 25.5cm de profundidad x 9.5cm de alto",
       "Excelente estado"
     ],
-    "state": "available",
-    "purchaser": "id"
+    "state": "reservada",
+    "purchaser": "14"
   }
 ]
