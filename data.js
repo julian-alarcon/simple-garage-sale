@@ -511,7 +511,7 @@ const products = [
       'Drone con sensores frontales, posteriroes, inferiores. Rango 10Km, Altura maxima 5Km, 320 gramos. Camara con estabilizador',
       'Viene con: Control con Joysticks (cables compatibles con USB-C, microUSB, Lighting (iPhone)), ',
       '3 baterias de 20 minutos, protectores de helices, cargador hasta 4 baterias, 3 pares de repuestos de helices, ',
-      'adaptador carga USB, Joysticks de repuesto, cable extensor USB, estuche original rigido, Maletin Original DJI, 6 filtros (3 ND4 ND8, ND16 Y 3 polarizados)',
+      'adaptador carga USB, Joysticks de repuesto, cable extensor USB, estuche original rigido, Maletin Original DJI, 6 filtros Fstop Labs (3 ND4 ND8, ND16 Y 3 polarizados)',
       'Manuales originales',
       'Excelente estado'
     ],
