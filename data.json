@@ -50,7 +50,22 @@
     "price": 40000,
     "details": [
       "ENTREGA INMEDIATA",
-      "Incluye bateria y adaptador USB.",
+      "Incluye bateria y adaptador USB",
+      "Excelente estado"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Teclado Inalambrico Logitech K375s",
+    "url": "img/teclado-collage.jpg",
+    "imageUrl": "img/teclado.jpg",
+    "originalPrice": 198000,
+    "price": 100000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Compatible con Bluetooth o Logitech Unifying",
+      "Soporte de conexion a 3 dispositivos",
       "Excelente estado"
     ],
     "state": "available",
@@ -68,6 +83,37 @@
     ],
     "state": "sold",
     "purchaser": "9"
+  },
+  {
+    "name": "PlayStation 3 con 3 controles y 6 juegos",
+    "url": "img/ps3.jpg",
+    "imageUrl": "img/ps3.jpg",
+    "originalPrice": 1380000,
+    "price": 350000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "256 GB de capacidad, 6 juegos, 2 controles DualShock 3 Sixaxis",
+      "Cables de A/V, cable HDMI, cable de energia, cacble carga controles",
+      "Excelente estado"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Audifonos Sony H900N con cancelacion de Ruido hear on 2",
+    "url": "img/audifonos-sony-collage.jpg",
+    "imageUrl": "img/audifonos-sony.jpg",
+    "originalPrice": 530000,
+    "price": 320000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "3 configuraciones (Cancelacion de ruido, sonido ambiente, apagado)",
+      "Se entrega en caja original con funda protectora y cable de carga microUSB",
+      "Plegables",
+      "Buen estado"
+    ],
+    "state": "available",
+    "purchaser": "id"
   },
   {
     "name": "Mueble Comoda",
@@ -173,6 +219,7 @@
   },
   {
     "name": "Tablero en acrilico borrable doble",
+    "url": "img/tablero-acrilico.jpg",
     "imageUrl": "img/tablero-acrilico.jpg",
     "originalPrice": 50000,
     "price": 40000,
@@ -230,6 +277,7 @@
   },
   {
     "name": "Rascador gatos 3 niveles",
+    "url": "img/rascador.jpg",
     "imageUrl": "img/rascador.jpg",
     "price": 90000,
     "details": [
@@ -272,6 +320,7 @@
   },
   {
     "name": "Tapete Gris 175cm x 120cm",
+    "url": "img/tapete.jpg",
     "imageUrl": "img/tapete.jpg",
     "originalPrice": 300000,
     "price": 150000,
@@ -413,6 +462,7 @@
   },
   {
     "name": "Bateria portatil 10.000 mA para celular",
+    "url": "img/bateria.jpg",
     "imageUrl": "img/bateria.jpg",
     "price": 25000,
     "details": [
@@ -447,6 +497,24 @@
       "ENTREGA INMEDIATA",
       "Sacacorchos/destapador",
       "Como nuevo"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Drone DJI Mavic Air 1",
+    "url": "img/drone-collage.jpg",
+    "imageUrl": "img/drone.jpg",
+    "originalPrice": 4200000,
+    "price": 1900000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Drone con sensores frontales, posteriroes, inferiores. Rango 10Km, Altura maxima 5Km, 320 gramos. Camara con estabilizador",
+      "Viene con: Control con Joysticks (cables compatibles con USB-C, microUSB, Lighting (iPhone)), ",
+      "3 baterias de 20 minutos, protectores de helices, cargador hasta 4 baterias, 3 pares de repuestos de helices, ",
+      "adaptador carga USB, Joysticks de repuesto, cable extensor USB, estuche original rigido, Maletin Original DJI, 6 filtros (3 ND4 ND8, ND16 Y 3 polarizados)",
+      "Manuales originales",
+      "Excelente estado"
     ],
     "state": "available",
     "purchaser": "id"
@@ -564,5 +632,33 @@
     ],
     "state": "reserved",
     "purchaser": "1"
+  },
+  {
+    "name": "Pesas tobillos Muñecas 2 x 1kg Domyos",
+    "url": "https://www.decathlon.es/es/p/lastres-pesas-tobillos-munecas-2-x-1kg-domyos/_/R-p-152952",
+    "imageUrl": "img/pesas-tobillos.jpg",
+    "originalPrice": 65000,
+    "price": 35000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Buen estado"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Base de madera para portatil",
+    "url": "https://ergonomus.co/producto/soporte-portatil-5-alturas-madera/",
+    "imageUrl": "img/base-portatil.jpg",
+    "originalPrice": 114000,
+    "price": 35000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Marca ergonomus, 5 Alturas: 5cm, 16.5cm, 20.5cm, 23.5cm y 25.5cm",
+      "37.9cm de ancho x 25.5cm de profundidad x 9.5cm de alto",
+      "Excelente estado"
+    ],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
