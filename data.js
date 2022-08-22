@@ -650,14 +650,14 @@ const products = [
     url: 'https://ergonomus.co/producto/soporte-portatil-5-alturas-madera/',
     imageUrl: 'img/base-portatil.jpg',
     originalPrice: 114000,
-    price: 35000,
+    price: 28000,
     details: [
       'ENTREGA INMEDIATA',
       'Marca ergonomus, 5 Alturas: 5cm, 16.5cm, 20.5cm, 23.5cm y 25.5cm',
       '37.9cm de ancho x 25.5cm de profundidad x 9.5cm de alto',
       'Excelente estado',
     ],
-    state: "sold",
+    state: "reserved",
     purchaser: "14"
   }
 ]
