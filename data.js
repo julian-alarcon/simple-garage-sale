@@ -606,7 +606,7 @@ const products = [
   },
   {
     name: 'Cuello',
-    url: 'https://www.lopido.com/cojin-cervical-mundo-animal-perro-hipopotamo-elefante-desknza-115449/p',
+    url: 'img/cuello.jpg',
     imageUrl: 'img/cuello.jpg',
     originalPrice: 33240,
     price: 20000,
