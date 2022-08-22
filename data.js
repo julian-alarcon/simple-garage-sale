@@ -568,7 +568,7 @@ const products = [
     originalPrice: 80000,
     price: 40000,
     details: [
-      'ENTREGA Inmediata',
+      'ENTREGA INMEDIATA',
       'Casco ',
       'Buen estado! Poco uso',
     ],
@@ -582,7 +582,7 @@ const products = [
     originalPrice: 80000,
     price: 40000,
     details: [
-      'ENTREGA Inmediata',
+      'ENTREGA INMEDIATA',
       'Casco de bicicleta',
       'Buen estado! Poco uso',
     ],
