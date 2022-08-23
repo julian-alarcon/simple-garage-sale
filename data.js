@@ -95,8 +95,8 @@ const products = [
       'Cables de A/V, cable HDMI, cable de energia, cacble carga controles',
       'Excelente estado'
     ],
-    state: "available",
-    purchaser: "id"
+    state: "sold",
+    purchaser: "16"
   },
   {
     name: 'Audifonos Sony H900N con cancelacion de Ruido hear on 2',
