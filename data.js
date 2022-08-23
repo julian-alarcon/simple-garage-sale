@@ -505,7 +505,7 @@ const products = [
     url: 'img/drone-collage.jpg',
     imageUrl: 'img/drone.jpg',
     originalPrice: 4200000,
-    price: 1900000,
+    price: 1800000,
     details: [
       'ENTREGA INMEDIATA',
       'Drone con sensores frontales, posteriroes, inferiores. Rango 10Km, Altura maxima 5Km, 320 gramos. Camara con estabilizador',
