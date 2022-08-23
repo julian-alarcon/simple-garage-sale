@@ -299,7 +299,7 @@ const products = [
       'Menos de 2 años de uso, 3 litros, 3 tipos de agua, triple filtro (pelos, calcio, olores)',
       'Raspada pero 100% funcional',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "4"
   },
   {
