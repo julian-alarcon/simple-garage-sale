@@ -88,7 +88,7 @@ const products = [
     url: 'img/ps3.jpg',
     imageUrl: 'img/ps3.jpg',
     originalPrice: 1380000,
-    price: 350000,
+    price: 380000,
     details: [
       'ENTREGA INMEDIATA',
       '256 GB de capacidad, 6 juegos, 2 controles DualShock 3 Sixaxis',
