@@ -515,8 +515,8 @@ const products = [
       'Manuales originales',
       'Excelente estado'
     ],
-    state: "available",
-    purchaser: "id"
+    state: "reserved",
+    purchaser: "11"
   },
   {
     name: 'Candado Bicicleta 1',
