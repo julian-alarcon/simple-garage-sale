@@ -430,20 +430,6 @@ const products = [
     purchaser: "17"
   },
   {
-    name: 'Nevera Whirlpool WRW25AKTWW 257 Litros',
-    url: 'https://www.whirlpool.com.co/nevera-top-mount-9-pies-cubicos-wrw25bktww/p',
-    imageUrl: 'img/nevera.jpg',
-    originalPrice: 1549000,
-    price: 690000,
-    details: [
-      'ENTREGA 12 de Septiembre',
-      'Congelador no frost, modalidad ahorradora',
-      'Algunos arañazos menores, 100 funcional',
-    ],
-    state: "reserved",
-    purchaser: "18"
-  },
-  {
     name: 'Base de madera para portatil',
     url: 'https://ergonomus.co/producto/soporte-portatil-5-alturas-madera/',
     imageUrl: 'img/base-portatil.jpg',
@@ -617,6 +603,20 @@ const products = [
     ],
     state: "sold",
     purchaser: "6"
+  },
+  {
+    name: 'Nevera Whirlpool WRW25AKTWW 257 Litros',
+    url: 'https://www.whirlpool.com.co/nevera-top-mount-9-pies-cubicos-wrw25bktww/p',
+    imageUrl: 'img/nevera.jpg',
+    originalPrice: 1549000,
+    price: 690000,
+    details: [
+      'ENTREGA 12 de Septiembre',
+      'Congelador no frost, modalidad ahorradora',
+      'Algunos arañazos menores, 100 funcional',
+    ],
+    state: "sold",
+    purchaser: "18"
   },
   {
     name: 'Juego de Pesas 20Kg',
