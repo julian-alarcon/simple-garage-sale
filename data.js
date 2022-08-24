@@ -14,20 +14,6 @@ const products = [
     purchaser: "id"
   },
   {
-    name: 'Nevera Whirlpool WRW25AKTWW 257 Litros',
-    url: 'https://www.whirlpool.com.co/nevera-top-mount-9-pies-cubicos-wrw25bktww/p',
-    imageUrl: 'img/nevera.jpg',
-    originalPrice: 1549000,
-    price: 750000,
-    details: [
-      'ENTREGA 12 de Septiembre',
-      'Congelador no frost, modalidad ahorradora',
-      'Algunos arañazos menores, 100 funcional',
-    ],
-    state: "available",
-    purchaser: "id"
-  },
-  {
     name: 'Juego de Alcoba, cama doble y mesas de noche',
     url: 'img/cama-collage.jpg',
     imageUrl: 'img/cama.jpg',
@@ -66,22 +52,6 @@ const products = [
       'Compatible con Bluetooth o Logitech Unifying',
       'Soporte de conexion a 3 dispositivos',
       'Excelente estado'
-    ],
-    state: "available",
-    purchaser: "id"
-  },
-  {
-    name: 'Audifonos Sony H900N con cancelacion de Ruido hear on 2',
-    url: 'img/audifonos-sony-collage.jpg',
-    imageUrl: 'img/audifonos-sony.jpg',
-    originalPrice: 530000,
-    price: 320000,
-    details: [
-      'ENTREGA INMEDIATA',
-      '3 configuraciones (Cancelacion de ruido, sonido ambiente, apagado)',
-      'Se entrega en caja original con funda protectora y cable de carga microUSB',
-      'Plegables',
-      'Buen estado'
     ],
     state: "available",
     purchaser: "id"
@@ -286,20 +256,6 @@ const products = [
     purchaser: "8"
   },
   {
-    name: '5 Vasos Cristar Schubert Rocks',
-    url: 'https://tienda.cristar.com.co/producto/vaso-schubert-rocks/',
-    imageUrl: 'img/vasos.jpg',
-    originalPrice: 20000,
-    price: 15000,
-    details: [
-      'ENTREGA INMEDIATA',
-      '5 vasos de cristal para bebidas/cocteles',
-      'Perfecto estado',
-    ],
-    state: "available",
-    purchaser: "id"
-  },
-  {
     name: 'Sacacorchos',
     url: 'https://www.homesentry.co/p/sacacorchos-ilko-metalico/',
     imageUrl: 'img/sacacorchos.jpg',
@@ -431,6 +387,20 @@ const products = [
     purchaser: "1"
   },
   {
+    name: '5 Vasos Cristar Schubert Rocks',
+    url: 'https://tienda.cristar.com.co/producto/vaso-schubert-rocks/',
+    imageUrl: 'img/vasos.jpg',
+    originalPrice: 20000,
+    price: 15000,
+    details: [
+      'ENTREGA INMEDIATA',
+      '5 vasos de cristal para bebidas/cocteles',
+      'Perfecto estado',
+    ],
+    state: "reserved",
+    purchaser: "17"
+  },
+  {
     name: 'Pesas tobillos Muñecas 2 x 1kg Domyos',
     url: 'https://www.decathlon.es/es/p/lastres-pesas-tobillos-munecas-2-x-1kg-domyos/_/R-p-152952',
     imageUrl: 'img/pesas-tobillos.jpg',
@@ -440,8 +410,38 @@ const products = [
       'ENTREGA INMEDIATA',
       'Buen estado',
     ],
-    state: "available",
-    purchaser: "id"
+    state: "reserved",
+    purchaser: "17"
+  },
+  {
+    name: 'Audifonos Sony H900N con cancelacion de Ruido hear on 2',
+    url: 'img/audifonos-sony-collage.jpg',
+    imageUrl: 'img/audifonos-sony.jpg',
+    originalPrice: 530000,
+    price: 300000,
+    details: [
+      'ENTREGA INMEDIATA',
+      '3 configuraciones (Cancelacion de ruido, sonido ambiente, apagado)',
+      'Se entrega en caja original con funda protectora y cable de carga microUSB',
+      'Plegables',
+      'Buen estado'
+    ],
+    state: "reserved",
+    purchaser: "17"
+  },
+  {
+    name: 'Nevera Whirlpool WRW25AKTWW 257 Litros',
+    url: 'https://www.whirlpool.com.co/nevera-top-mount-9-pies-cubicos-wrw25bktww/p',
+    imageUrl: 'img/nevera.jpg',
+    originalPrice: 1549000,
+    price: 690000,
+    details: [
+      'ENTREGA 12 de Septiembre',
+      'Congelador no frost, modalidad ahorradora',
+      'Algunos arañazos menores, 100 funcional',
+    ],
+    state: "reserved",
+    purchaser: "18"
   },
   {
     name: 'Base de madera para portatil',
