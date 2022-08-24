@@ -71,34 +71,6 @@ const products = [
     purchaser: "id"
   },
   {
-    name: 'Horno Microondas Samsung AGE83X',
-    url: 'https://www.samsung.com/co/microwave-ovens/grill/microwave-oven-grill-age83x/',
-    imageUrl: 'img/microondas.jpg',
-    originalPrice: 459900,
-    price: 180000,
-    details: [
-      'ENTREGA 08 de Septiembre',
-      'Como nuevo!',
-    ],
-    state: "sold",
-    purchaser: "9"
-  },
-  {
-    name: 'PlayStation 3 con 3 controles y 6 juegos',
-    url: 'img/ps3.jpg',
-    imageUrl: 'img/ps3.jpg',
-    originalPrice: 1380000,
-    price: 380000,
-    details: [
-      'ENTREGA INMEDIATA',
-      '256 GB de capacidad, 6 juegos, 2 controles DualShock 3 Sixaxis',
-      'Cables de A/V, cable HDMI, cable de energia, cacble carga controles',
-      'Excelente estado'
-    ],
-    state: "sold",
-    purchaser: "16"
-  },
-  {
     name: 'Audifonos Sony H900N con cancelacion de Ruido hear on 2',
     url: 'img/audifonos-sony-collage.jpg',
     imageUrl: 'img/audifonos-sony.jpg',
@@ -113,20 +85,6 @@ const products = [
     ],
     state: "available",
     purchaser: "id"
-  },
-  {
-    name: 'Mueble Comoda',
-    url: 'img/comoda2.jpg',
-    imageUrl: 'img/comoda.jpg',
-    price: 70000,
-    details: [
-      'ENTREGA 11 de Septiembre',
-      'Comoda cafe con 3 cajones',
-      '80 cm ancho x 75 cm alto x 38 cm profundo',
-      'Buen estado!',
-    ],
-    state: "sold",
-    purchaser: "2"
   },
   {
     name: 'Bicicleta Todoterreno GW negro con gris',
@@ -217,50 +175,6 @@ const products = [
     purchaser: "id"
   },
   {
-    name: 'Tablero en acrilico borrable doble',
-    url: 'img/tablero-acrilico.jpg',
-    imageUrl: 'img/tablero-acrilico.jpg',
-    originalPrice: 50000,
-    price: 40000,
-    details: [
-      'ENTREGA INMEDIATA',
-      'Tablero en acrilico borrable doble',
-      '40cm ancho X 60cm alto. Altura total 120cm incluye borrador de tablero y marcador',
-      'Buen estado!',
-    ],
-    state: "sold",
-    purchaser: "11"
-  },
-  {
-    name: 'Smart TV Samsung UN48JU6100 4K 48 pulgadas',
-    url: 'https://www.linio.com.co/p/televisor-samsung-48-4k-un48ju6100-led-negro-tpq4wk',
-    imageUrl: 'img/tv.jpg',
-    originalPrice: 1899900,
-    price: 1000000,
-    details: [
-      'ENTREGA 11 de Septiembre',
-      'Netflix/YouTube/PrimeVideo/Spotify',
-      '4K, 3 puertos HDMI, Internet Wifi, TDT, Incluye control remoto',
-      'Buen estado!',
-    ],
-    state: "sold",
-    purchaser: "3"
-  },
-  {
-    name: 'Escritorio Blanco Marfil',
-    imageUrl: 'img/escritorio-blanco.jpg',
-    url: 'img/escritorio-blanco-collage.jpg',
-    originalPrice: 350000,
-    price: 270000,
-    details: [
-      'ENTREGA 08 de Septiembre',
-      'Profundida 60cm ancho 110cm altura 74cm',
-      'Como nuevo!',
-    ],
-    state: "sold",
-    purchaser: "12"
-  },
-  {
     name: 'Escritorio Beige',
     imageUrl: 'img/escritorio-beige.jpg',
     url: 'img/escritorio-blanco-collage.jpg',
@@ -273,80 +187,6 @@ const products = [
     ],
     state: "available",
     purchaser: "id"
-  },
-  {
-    name: 'Rascador gatos 3 niveles',
-    url: 'img/rascador.jpg',
-    imageUrl: 'img/rascador.jpg',
-    price: 90000,
-    details: [
-      'ENTREGA 11 de Septiembre',
-      'Rascador amarillo/negro',
-      'Altura 165 cm',
-      'Poco uso',
-    ],
-    state: "sold",
-    purchaser: "6"
-  },
-  {
-    name: 'Fuente flor de agua para gatos Catit (mas repuesto) original',
-    url: 'https://usa.catit.com/shop/flower-fountain/',
-    imageUrl: 'img/fuente.jpg',
-    originalPrice: 119000,
-    price: 40000,
-    details: [
-      'ENTREGA 10 de Septiembre',
-      'Menos de 2 años de uso, 3 litros, 3 tipos de agua, triple filtro (pelos, calcio, olores)',
-      'Raspada pero 100% funcional',
-    ],
-    state: "sold",
-    purchaser: "4"
-  },
-  {
-    name: 'Lavadora Secadora Samsung WD11M44733S 11.5 Kg',
-    url: 'https://www.youtube.com/watch?v=KWxgPi7W1TI',
-    imageUrl: 'img/lavadora.jpg',
-    originalPrice: 2050000,
-    price: 1700000,
-    details: [
-      'ENTREGA 08 de Septiembre',
-      'Lavadora secadora (electrica)',
-      '60 cm ancho x 85 cm alto x 65 cm profundo',
-      'Como nueva! Menos de 1 año de uso',
-    ],
-    state: "sold",
-    purchaser: "5"
-  },
-  {
-    name: 'Tapete Gris 175cm x 120cm',
-    url: 'img/tapete.jpg',
-    imageUrl: 'img/tapete.jpg',
-    originalPrice: 300000,
-    price: 150000,
-    details: [
-      'ENTREGA 08 de Septiembre',
-      'Tapete gris con franjas hecho en Turquia',
-      'Como nuevo!',
-    ],
-    state: "sold",
-    purchaser: "15"
-  },
-  {
-    name: 'Sofacama verde tela antiarañazos!',
-    url: 'img/sofa-collage.jpg',
-    imageUrl: 'img/sofa.jpg',
-    originalPrice: 1400000,
-    price: 1000000,
-    details: [
-      'ENTREGA 08 de Septiembre',
-      'Realmente funciona! Tenemos 2 gatos y esta sin 1 rasguño!',
-      '3 posiciones, bastante comodo. Producto colombiano',
-      'Sofa: 182 cm ancho x 95 cm alto x 94 cm profundo',
-      'Cama: 182 cm ancho x 60 cm alto x 65 cm profundo',
-      'Como nuevo!',
-    ],
-    state: "sold",
-    purchaser: "6"
   },
   {
     name: 'Parlante Google Home',
@@ -433,20 +273,6 @@ const products = [
     purchaser: "8"
   },
   {
-    name: 'Juego de Pesas 20Kg',
-    url: 'img/juego-pesas-collage.jpg',
-    imageUrl: 'img/juego-pesas.png',
-    originalPrice: 300000,
-    price: 250000,
-    details: [
-      'ENTREGA INMEDIATA',
-      '2 barras 2Kg, 4 discos 2Kg, 8 discos 1Kg, 4 seguros',
-      'Como nuevo!',
-    ],
-    state: "sold",
-    purchaser: "9"
-  },
-  {
     name: 'Parlante Inalambrico Origaudio Boxanne',
     url: 'https://origaudiopromo.com/product/boxanne-wireless-speaker-white/',
     imageUrl: 'img/parlante.jpg',
@@ -458,19 +284,6 @@ const products = [
     ],
     state: "reserved",
     purchaser: "8"
-  },
-  {
-    name: 'Bateria portatil 10.000 mA para celular',
-    url: 'img/bateria.jpg',
-    imageUrl: 'img/bateria.jpg',
-    price: 25000,
-    details: [
-      'ENTREGA INMEDIATA',
-      'Salida USB: 5V/2.0A , Wireless 5V/1.0A. Viene con cable micro USB' ,
-      'Nuevo en caja!',
-    ],
-    state: "sold",
-    purchaser: "10"
   },
   {
     name: '5 Vasos Cristar Schubert Rocks',
@@ -545,21 +358,6 @@ const products = [
     ],
     state: "available",
     purchaser: "id"
-  },
-  {
-    name: 'Mueble de TV en L',
-    imageUrl: 'img/muebleTVL.jpg',
-    url: 'img/muebleTVL-collage.jpg',
-    originalPrice: 400000,
-    price: 200000,
-    details: [
-      'ENTREGA 08 de Septiembre',
-      '2 secciones',
-      'FALTAN MEDIDAS',
-      'Buen estado!',
-    ],
-    state: "sold",
-    purchaser: "13"
   },
   {
     name: 'Casco bicicleta Morado',
@@ -657,7 +455,209 @@ const products = [
       '37.9cm de ancho x 25.5cm de profundidad x 9.5cm de alto',
       'Excelente estado',
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "14"
-  }
+  },
+  {
+    name: 'Horno Microondas Samsung AGE83X',
+    url: 'https://www.samsung.com/co/microwave-ovens/grill/microwave-oven-grill-age83x/',
+    imageUrl: 'img/microondas.jpg',
+    originalPrice: 459900,
+    price: 180000,
+    details: [
+      'ENTREGA 08 de Septiembre',
+      'Como nuevo!',
+    ],
+    state: "sold",
+    purchaser: "9"
+  },
+  {
+    name: 'PlayStation 3 con 3 controles y 6 juegos',
+    url: 'img/ps3.jpg',
+    imageUrl: 'img/ps3.jpg',
+    originalPrice: 1380000,
+    price: 380000,
+    details: [
+      'ENTREGA INMEDIATA',
+      '256 GB de capacidad, 6 juegos, 2 controles DualShock 3 Sixaxis',
+      'Cables de A/V, cable HDMI, cable de energia, cacble carga controles',
+      'Excelente estado'
+    ],
+    state: "sold",
+    purchaser: "16"
+  },
+  {
+    name: 'Mueble Comoda',
+    url: 'img/comoda2.jpg',
+    imageUrl: 'img/comoda.jpg',
+    price: 70000,
+    details: [
+      'ENTREGA 11 de Septiembre',
+      'Comoda cafe con 3 cajones',
+      '80 cm ancho x 75 cm alto x 38 cm profundo',
+      'Buen estado!',
+    ],
+    state: "sold",
+    purchaser: "2"
+  },
+  {
+    name: 'Tablero en acrilico borrable doble',
+    url: 'img/tablero-acrilico.jpg',
+    imageUrl: 'img/tablero-acrilico.jpg',
+    originalPrice: 50000,
+    price: 40000,
+    details: [
+      'ENTREGA INMEDIATA',
+      'Tablero en acrilico borrable doble',
+      '40cm ancho X 60cm alto. Altura total 120cm incluye borrador de tablero y marcador',
+      'Buen estado!',
+    ],
+    state: "sold",
+    purchaser: "11"
+  },
+  {
+    name: 'Smart TV Samsung UN48JU6100 4K 48 pulgadas',
+    url: 'https://www.linio.com.co/p/televisor-samsung-48-4k-un48ju6100-led-negro-tpq4wk',
+    imageUrl: 'img/tv.jpg',
+    originalPrice: 1899900,
+    price: 1000000,
+    details: [
+      'ENTREGA 11 de Septiembre',
+      'Netflix/YouTube/PrimeVideo/Spotify',
+      '4K, 3 puertos HDMI, Internet Wifi, TDT, Incluye control remoto',
+      'Buen estado!',
+    ],
+    state: "sold",
+    purchaser: "3"
+  },
+  {
+    name: 'Escritorio Blanco Marfil',
+    imageUrl: 'img/escritorio-blanco.jpg',
+    url: 'img/escritorio-blanco-collage.jpg',
+    originalPrice: 350000,
+    price: 270000,
+    details: [
+      'ENTREGA 08 de Septiembre',
+      'Profundida 60cm ancho 110cm altura 74cm',
+      'Como nuevo!',
+    ],
+    state: "sold",
+    purchaser: "12"
+  },
+  {
+    name: 'Rascador gatos 3 niveles',
+    url: 'img/rascador.jpg',
+    imageUrl: 'img/rascador.jpg',
+    price: 90000,
+    details: [
+      'ENTREGA 11 de Septiembre',
+      'Rascador amarillo/negro',
+      'Altura 165 cm',
+      'Poco uso',
+    ],
+    state: "sold",
+    purchaser: "6"
+  },
+  {
+    name: 'Fuente flor de agua para gatos Catit (mas repuesto) original',
+    url: 'https://usa.catit.com/shop/flower-fountain/',
+    imageUrl: 'img/fuente.jpg',
+    originalPrice: 119000,
+    price: 40000,
+    details: [
+      'ENTREGA 10 de Septiembre',
+      'Menos de 2 años de uso, 3 litros, 3 tipos de agua, triple filtro (pelos, calcio, olores)',
+      'Raspada pero 100% funcional',
+    ],
+    state: "sold",
+    purchaser: "4"
+  },
+  {
+    name: 'Lavadora Secadora Samsung WD11M44733S 11.5 Kg',
+    url: 'https://www.youtube.com/watch?v=KWxgPi7W1TI',
+    imageUrl: 'img/lavadora.jpg',
+    originalPrice: 2050000,
+    price: 1700000,
+    details: [
+      'ENTREGA 08 de Septiembre',
+      'Lavadora secadora (electrica)',
+      '60 cm ancho x 85 cm alto x 65 cm profundo',
+      'Como nueva! Menos de 1 año de uso',
+    ],
+    state: "sold",
+    purchaser: "5"
+  },
+  {
+    name: 'Tapete Gris 175cm x 120cm',
+    url: 'img/tapete.jpg',
+    imageUrl: 'img/tapete.jpg',
+    originalPrice: 300000,
+    price: 150000,
+    details: [
+      'ENTREGA 08 de Septiembre',
+      'Tapete gris con franjas hecho en Turquia',
+      'Como nuevo!',
+    ],
+    state: "sold",
+    purchaser: "15"
+  },
+  {
+    name: 'Sofacama verde tela antiarañazos!',
+    url: 'img/sofa-collage.jpg',
+    imageUrl: 'img/sofa.jpg',
+    originalPrice: 1400000,
+    price: 1000000,
+    details: [
+      'ENTREGA 08 de Septiembre',
+      'Realmente funciona! Tenemos 2 gatos y esta sin 1 rasguño!',
+      '3 posiciones, bastante comodo. Producto colombiano',
+      'Sofa: 182 cm ancho x 95 cm alto x 94 cm profundo',
+      'Cama: 182 cm ancho x 60 cm alto x 65 cm profundo',
+      'Como nuevo!',
+    ],
+    state: "sold",
+    purchaser: "6"
+  },
+  {
+    name: 'Juego de Pesas 20Kg',
+    url: 'img/juego-pesas-collage.jpg',
+    imageUrl: 'img/juego-pesas.png',
+    originalPrice: 300000,
+    price: 250000,
+    details: [
+      'ENTREGA INMEDIATA',
+      '2 barras 2Kg, 4 discos 2Kg, 8 discos 1Kg, 4 seguros',
+      'Como nuevo!',
+    ],
+    state: "sold",
+    purchaser: "9"
+  },
+  {
+    name: 'Bateria portatil 10.000 mA para celular',
+    url: 'img/bateria.jpg',
+    imageUrl: 'img/bateria.jpg',
+    price: 25000,
+    details: [
+      'ENTREGA INMEDIATA',
+      'Salida USB: 5V/2.0A , Wireless 5V/1.0A. Viene con cable micro USB' ,
+      'Nuevo en caja!',
+    ],
+    state: "sold",
+    purchaser: "10"
+  },
+  {
+    name: 'Mueble de TV en L',
+    imageUrl: 'img/muebleTVL.jpg',
+    url: 'img/muebleTVL-collage.jpg',
+    originalPrice: 400000,
+    price: 200000,
+    details: [
+      'ENTREGA 08 de Septiembre',
+      '2 secciones',
+      'FALTAN MEDIDAS',
+      'Buen estado!',
+    ],
+    state: "sold",
+    purchaser: "13"
+  },
 ]
