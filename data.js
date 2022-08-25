@@ -383,7 +383,7 @@ const products = [
       'Link referencia Brazo (Estandar VESA) https://ergonomus.co/producto/brazo-monitor-flexigas-eco/',
       'Excelente estado',
     ],
-    state: "reserved",
+    state: available",
     purchaser: "1"
   },
   {
