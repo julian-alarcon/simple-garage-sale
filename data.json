@@ -388,31 +388,19 @@
     "purchaser": "1"
   },
   {
-    "name": "5 Vasos Cristar Schubert Rocks",
-    "url": "https://tienda.cristar.com.co/producto/vaso-schubert-rocks/",
-    "imageUrl": "img/vasos.jpg",
-    "originalPrice": 20000,
-    "price": 15000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "5 vasos de cristal para bebidas/cocteles",
-      "Perfecto estado"
-    ],
-    "state": "reserved",
-    "purchaser": "17"
-  },
-  {
-    "name": "Pesas tobillos Muñecas 2 x 1kg Domyos",
-    "url": "https://www.decathlon.es/es/p/lastres-pesas-tobillos-munecas-2-x-1kg-domyos/_/R-p-152952",
-    "imageUrl": "img/pesas-tobillos.jpg",
-    "originalPrice": 65000,
+    "name": "Base de madera para portatil",
+    "url": "https://ergonomus.co/producto/soporte-portatil-5-alturas-madera/",
+    "imageUrl": "img/base-portatil.jpg",
+    "originalPrice": 114000,
     "price": 35000,
     "details": [
       "ENTREGA INMEDIATA",
-      "Buen estado"
+      "Marca ergonomus, 5 Alturas: 5cm, 16.5cm, 20.5cm, 23.5cm y 25.5cm",
+      "37.9cm de ancho x 25.5cm de profundidad x 9.5cm de alto",
+      "Excelente estado"
     ],
-    "state": "reserved",
-    "purchaser": "17"
+    "state": "sold",
+    "purchaser": "14"
   },
   {
     "name": "Audifonos Sony H900N con cancelacion de Ruido hear on 2",
@@ -427,23 +415,8 @@
       "Plegables",
       "Buen estado"
     ],
-    "state": "reserved",
-    "purchaser": "17"
-  },
-  {
-    "name": "Base de madera para portatil",
-    "url": "https://ergonomus.co/producto/soporte-portatil-5-alturas-madera/",
-    "imageUrl": "img/base-portatil.jpg",
-    "originalPrice": 114000,
-    "price": 35000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Marca ergonomus, 5 Alturas: 5cm, 16.5cm, 20.5cm, 23.5cm y 25.5cm",
-      "37.9cm de ancho x 25.5cm de profundidad x 9.5cm de alto",
-      "Excelente estado"
-    ],
     "state": "sold",
-    "purchaser": "14"
+    "purchaser": "17"
   },
   {
     "name": "Horno Microondas Samsung AGE83X",
@@ -486,6 +459,20 @@
     ],
     "state": "sold",
     "purchaser": "2"
+  },
+  {
+    "name": "5 Vasos Cristar Schubert Rocks",
+    "url": "https://tienda.cristar.com.co/producto/vaso-schubert-rocks/",
+    "imageUrl": "img/vasos.jpg",
+    "originalPrice": 20000,
+    "price": 15000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "5 vasos de cristal para bebidas/cocteles",
+      "Perfecto estado"
+    ],
+    "state": "sold",
+    "purchaser": "17"
   },
   {
     "name": "Tablero en acrilico borrable doble",
@@ -645,6 +632,19 @@
     ],
     "state": "sold",
     "purchaser": "10"
+  },
+  {
+    "name": "Pesas tobillos Muñecas 2 x 1kg Domyos",
+    "url": "https://www.decathlon.es/es/p/lastres-pesas-tobillos-munecas-2-x-1kg-domyos/_/R-p-152952",
+    "imageUrl": "img/pesas-tobillos.jpg",
+    "originalPrice": 65000,
+    "price": 35000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Buen estado"
+    ],
+    "state": "sold",
+    "purchaser": "17"
   },
   {
     "name": "Mueble de TV en L",
