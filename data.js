@@ -17,7 +17,7 @@ const products = [
     name: 'Juego de Alcoba, cama doble y mesas de noche',
     url: 'img/cama-collage.jpg',
     imageUrl: 'img/cama.jpg',
-    price: 1500000,
+    price: 1200000,
     details: [
       'ENTREGA 13 de Septiembre',
       '1 cama doble, 2 mesas de noche', '200 cm largo x 145 cm largo',
