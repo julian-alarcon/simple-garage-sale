@@ -328,34 +328,6 @@
     "purchaser": "19"
   },
   {
-    "name": "Parlante Google Home Mini Gris",
-    "url": "https://www.xataka.com/accesorios/google-home-mini-mas-pequeno-pero-con-las-mismas-prestaciones-que-su-hermano-mayor",
-    "imageUrl": "img/google-home-mini.jpg",
-    "originalPrice": 214000,
-    "price": 70000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Compatible con Google Assistant, comandos en Español e Ingles",
-      "Como nuevo!"
-    ],
-    "state": "reserved",
-    "purchaser": "1"
-  },
-  {
-    "name": "Parlante Google Home",
-    "url": "https://www.xataka.com/basics/todo-que-puedes-hacer-google-home-como-configurarlo-reyes-te-han-traido-uno",
-    "imageUrl": "img/google-home.jpg",
-    "originalPrice": 350000,
-    "price": 150000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Compatible con Google Assistant, comandos en Español e Ingles",
-      "Como nuevo!"
-    ],
-    "state": "reserved",
-    "purchaser": "1"
-  },
-  {
     "name": "Base de madera para portatil",
     "url": "https://ergonomus.co/producto/soporte-portatil-5-alturas-madera/",
     "imageUrl": "img/base-portatil.jpg",
@@ -470,6 +442,34 @@
     ],
     "state": "sold",
     "purchaser": "11"
+  },
+  {
+    "name": "Parlante Google Home Mini Gris",
+    "url": "https://www.xataka.com/accesorios/google-home-mini-mas-pequeno-pero-con-las-mismas-prestaciones-que-su-hermano-mayor",
+    "imageUrl": "img/google-home-mini.jpg",
+    "originalPrice": 214000,
+    "price": 70000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Compatible con Google Assistant, comandos en Español e Ingles",
+      "Como nuevo!"
+    ],
+    "state": "sold",
+    "purchaser": "1"
+  },
+  {
+    "name": "Parlante Google Home",
+    "url": "https://www.xataka.com/basics/todo-que-puedes-hacer-google-home-como-configurarlo-reyes-te-han-traido-uno",
+    "imageUrl": "img/google-home.jpg",
+    "originalPrice": 350000,
+    "price": 150000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Compatible con Google Assistant, comandos en Español e Ingles",
+      "Como nuevo!"
+    ],
+    "state": "sold",
+    "purchaser": "1"
   },
   {
     "name": "Smart TV Samsung UN48JU6100 4K 48 pulgadas",
