@@ -39,7 +39,7 @@ const products = [
       'Excelente estado',
     ],
     state: "available",
-    purchaser: "1"
+    purchaser: "id"
   },
   {
     name: 'Mouse negro inalambrico Logitech M317',
