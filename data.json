@@ -87,49 +87,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Bicicleta Todoterreno GW negro con verde",
-    "url": "img/bicicleta-verde-collage.jpg",
-    "imageUrl": "img/bicicleta-verde.jpg",
-    "originalPrice": 900000,
-    "price": 670000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Bicicleta cambios Shimano, frenos de disco GW, amortiguador frontal",
-      "RIN 29",
-      "Como nueva!"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Combo Bicicleta Todoterreno GW negro con gris, Casco Morado y Candado",
-    "url": "img/bicicleta-gris-combo.jpg",
-    "imageUrl": "img/bicicleta-gris-combo-collage.jpg",
-    "originalPrice": 1025900,
-    "price": 700000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Bicicleta cambios Shimano, frenos de disco GW, amortiguador frontal, casco, candado",
-      "RIN 29"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Combo Bicicleta Todoterreno GW negro con verde, Casco Morado y Candado",
-    "url": "img/bicicleta-verde-combo.jpg",
-    "imageUrl": "img/bicicleta-verde-combo-collage.jpg",
-    "originalPrice": 1025900,
-    "price": 700000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Bicicleta cambios Shimano, frenos de disco GW, amortiguador frontal, casco, candado",
-      "RIN 29"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Camara Olympus E-M10 Mark III",
     "url": "https://www.facebook.com/marketplace/item/3378056672436656/",
     "imageUrl": "img/camara-olympus.jpg",
@@ -182,34 +139,6 @@
       "ENTREGA INMEDIATA",
       "Sacacorchos/destapador",
       "Como nuevo"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Candado Bicicleta 2",
-    "url": "https://www.homecenter.com.co/homecenter-co/product/461884/guaya-de-seguridad-con-sistema-de-clave/461884/",
-    "imageUrl": "img/candado-bicicleta-02.jpg",
-    "originalPrice": 35900,
-    "price": 25000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Candado/Gualla con clave de 4 digitos programable",
-      "Como nuevo"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Casco bicicleta Morado",
-    "imageUrl": "img/casco-morado.jpg",
-    "url": "https://www.fortecampione.com/producto/casco-evolution-mv29-mate/",
-    "originalPrice": 80000,
-    "price": 40000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Casco ",
-      "Buen estado! Poco uso"
     ],
     "state": "available",
     "purchaser": "id"
@@ -370,6 +299,20 @@
     ],
     "state": "sold",
     "purchaser": "16"
+  },
+  {
+    "name": "Combo Bicicleta Todoterreno GW negro con verde, Casco Morado y Candado",
+    "url": "img/bicicleta-verde-combo.jpg",
+    "imageUrl": "img/bicicleta-verde-combo-collage.jpg",
+    "originalPrice": 1025900,
+    "price": 700000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Bicicleta cambios Shimano, frenos de disco GW, amortiguador frontal, casco, candado",
+      "RIN 29"
+    ],
+    "state": "sold",
+    "purchaser": "id"
   },
   {
     "name": "Mueble Comoda",
@@ -660,5 +603,62 @@
     ],
     "state": "sold",
     "purchaser": "13"
+  },
+  {
+    "name": "Combo Bicicleta Todoterreno GW negro con gris, Casco Morado y Candado",
+    "url": "img/bicicleta-gris-combo.jpg",
+    "imageUrl": "img/bicicleta-gris-combo-collage.jpg",
+    "originalPrice": 1025900,
+    "price": 700000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Bicicleta cambios Shimano, frenos de disco GW, amortiguador frontal, casco, candado",
+      "RIN 29"
+    ],
+    "state": "notavailable",
+    "purchaser": "id"
+  },
+  {
+    "name": "Candado Bicicleta 2",
+    "url": "https://www.homecenter.com.co/homecenter-co/product/461884/guaya-de-seguridad-con-sistema-de-clave/461884/",
+    "imageUrl": "img/candado-bicicleta-02.jpg",
+    "originalPrice": 35900,
+    "price": 25000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Candado/Gualla con clave de 4 digitos programable",
+      "Como nuevo"
+    ],
+    "state": "notavailable",
+    "purchaser": "id"
+  },
+  {
+    "name": "Casco bicicleta Morado",
+    "imageUrl": "img/casco-morado.jpg",
+    "url": "https://www.fortecampione.com/producto/casco-evolution-mv29-mate/",
+    "originalPrice": 80000,
+    "price": 40000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Casco ",
+      "Buen estado! Poco uso"
+    ],
+    "state": "notavailable",
+    "purchaser": "id"
+  },
+  {
+    "name": "Bicicleta Todoterreno GW negro con verde",
+    "url": "img/bicicleta-verde-collage.jpg",
+    "imageUrl": "img/bicicleta-verde.jpg",
+    "originalPrice": 900000,
+    "price": 670000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Bicicleta cambios Shimano, frenos de disco GW, amortiguador frontal",
+      "RIN 29",
+      "Como nueva!"
+    ],
+    "state": "notavailable",
+    "purchaser": "id"
   }
 ]
