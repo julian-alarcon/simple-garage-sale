@@ -299,21 +299,6 @@
     "purchaser": "8"
   },
   {
-    "name": "Bascula Xiaomi Mi Body Composition Scale 2",
-    "url": "https://www.mi.com/mx/product/mi-body-composition-scale-2/",
-    "imageUrl": "img/xiaomi-scale.png",
-    "originalPrice": 70000,
-    "price": 50000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Bascula digital Xiaomi",
-      "Se integra con application de Smartphone. Peso, agua, porcentaje grasa, masa muscular/osea",
-      "Como nueva!"
-    ],
-    "state": "reserved",
-    "purchaser": "1"
-  },
-  {
     "name": "Licuadora/Extractor Nutribullet Pro Original 900W",
     "url": "https://nutribulletcolombia.com/product/nutribullet-900-watts/",
     "imageUrl": "img/nutribullet.jpg",
@@ -645,6 +630,21 @@
     ],
     "state": "sold",
     "purchaser": "11"
+  },
+  {
+    "name": "Bascula Xiaomi Mi Body Composition Scale 2",
+    "url": "https://www.mi.com/mx/product/mi-body-composition-scale-2/",
+    "imageUrl": "img/xiaomi-scale.png",
+    "originalPrice": 70000,
+    "price": 50000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Bascula digital Xiaomi",
+      "Se integra con application de Smartphone. Peso, agua, porcentaje grasa, masa muscular/osea",
+      "Como nueva!"
+    ],
+    "state": "sold",
+    "purchaser": "1"
   },
   {
     "name": "Mueble de TV en L",
