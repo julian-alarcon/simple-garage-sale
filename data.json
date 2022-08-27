@@ -1,19 +1,5 @@
 [
   {
-    "name": "Licuadora/Extractor Nutribullet Pro Original 900W",
-    "url": "https://nutribulletcolombia.com/product/nutribullet-900-watts/",
-    "imageUrl": "img/nutribullet.jpg",
-    "originalPrice": 320000,
-    "price": 250000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Con todos los accesorios, en caja original",
-      "Como nuevo!"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Juego de Alcoba, cama doble y mesas de noche",
     "url": "img/cama-collage.jpg",
     "imageUrl": "img/cama.jpg",
@@ -27,6 +13,34 @@
     ],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Cuello",
+    "url": "img/cuello.jpg",
+    "imageUrl": "img/cuello.jpg",
+    "originalPrice": 33240,
+    "price": 20000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Un uso"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Monitor LED LG Ultrawide 25 pulgadas 25UM58 mas brazo para escritorio",
+    "url": "https://www.lg.com/mx/monitores/lg-25UM58",
+    "imageUrl": "img/monitor-lg.jpg",
+    "originalPrice": 700000,
+    "price": 600000,
+    "details": [
+      "ENTREGA 08 de Septiembre",
+      "Usado por menos de 2 años, Ultrawide, resolucion 2560 x 1080, 75Hz",
+      "Link referencia Brazo (Estandar VESA) https://ergonomus.co/producto/brazo-monitor-flexigas-eco/",
+      "Excelente estado"
+    ],
+    "state": "available",
+    "purchaser": "1"
   },
   {
     "name": "Mouse negro inalambrico Logitech M317",
@@ -116,21 +130,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Bascula Xiaomi Mi Body Composition Scale 2",
-    "url": "https://www.mi.com/mx/product/mi-body-composition-scale-2/",
-    "imageUrl": "img/xiaomi-scale.png",
-    "originalPrice": 70000,
-    "price": 50000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Bascula digital Xiaomi",
-      "Se integra con application de Smartphone. Peso, agua, porcentaje grasa, masa muscular/osea",
-      "Como nueva!"
-    ],
-    "state": "reserved",
-    "purchaser": "1"
-  },
-  {
     "name": "Camara Olympus E-M10 Mark III",
     "url": "https://www.facebook.com/marketplace/item/3378056672436656/",
     "imageUrl": "img/camara-olympus.jpg",
@@ -160,48 +159,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Parlante Google Home",
-    "url": "https://www.xataka.com/basics/todo-que-puedes-hacer-google-home-como-configurarlo-reyes-te-han-traido-uno",
-    "imageUrl": "img/google-home.jpg",
-    "originalPrice": 350000,
-    "price": 150000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Compatible con Google Assistant, comandos en Español e Ingles",
-      "Como nuevo!"
-    ],
-    "state": "reserved",
-    "purchaser": "1"
-  },
-  {
-    "name": "Parlante Google Home Mini Gris",
-    "url": "https://www.xataka.com/accesorios/google-home-mini-mas-pequeno-pero-con-las-mismas-prestaciones-que-su-hermano-mayor",
-    "imageUrl": "img/google-home-mini.jpg",
-    "originalPrice": 214000,
-    "price": 70000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Compatible con Google Assistant, comandos en Español e Ingles",
-      "Como nuevo!"
-    ],
-    "state": "reserved",
-    "purchaser": "1"
-  },
-  {
-    "name": "Aspiradora Robot iRobot Roomba 675",
-    "url": "https://www.irobotcolombia.com/producto/roomba-675/",
-    "imageUrl": "img/roomba.jpg",
-    "originalPrice": 1270000,
-    "price": 700000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Compatible con Google Assistant, programacion desde App. 415 limpiezas realizadas",
-      "Buen estado!"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Carpa 2 persona Quechua Arpenaz 2",
     "url": "img/carpa-collage.jpg",
     "imageUrl": "img/carpa.jpg",
@@ -216,47 +173,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Maleta Camping roja",
-    "url": "img/maleta-camping-collage.jpg",
-    "imageUrl": "img/maleta-camping.jpg",
-    "originalPrice": 70000,
-    "price": 30000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Roja, capacidad 70 Litros (No incluye gatos)",
-      "Como nueva!"
-    ],
-    "state": "reserved",
-    "purchaser": "7"
-  },
-  {
-    "name": "Juego 2 de Sillas Bar negras",
-    "url": "img/sillas-collage.jpg",
-    "imageUrl": "img/sillas.jpg",
-    "originalPrice": 300000,
-    "price": 180000,
-    "details": [
-      "ENTREGA 08 de Septiembre",
-      "Sillas graduables en altura",
-      "Como nuevas!"
-    ],
-    "state": "reserved",
-    "purchaser": "8"
-  },
-  {
-    "name": "Parlante Inalambrico Origaudio Boxanne",
-    "url": "https://origaudiopromo.com/product/boxanne-wireless-speaker-white/",
-    "imageUrl": "img/parlante.jpg",
-    "price": 20000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Viene con cable microusb y 3.5mm",
-      "Nuevo en caja!"
-    ],
-    "state": "reserved",
-    "purchaser": "8"
-  },
-  {
     "name": "Sacacorchos",
     "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
     "imageUrl": "img/sacacorchos.jpg",
@@ -269,38 +185,6 @@
     ],
     "state": "available",
     "purchaser": "id"
-  },
-  {
-    "name": "Drone DJI Mavic Air 1",
-    "url": "img/drone-collage.jpg",
-    "imageUrl": "img/drone.jpg",
-    "originalPrice": 4200000,
-    "price": 1800000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Drone con sensores frontales, posteriroes, inferiores. Rango 10Km, Altura maxima 5Km, 320 gramos. Camara con estabilizador",
-      "Viene con: Control con Joysticks (cables compatibles con USB-C, microUSB, Lighting (iPhone)), ",
-      "3 baterias de 20 minutos, protectores de helices, cargador hasta 4 baterias, 3 pares de repuestos de helices, ",
-      "adaptador carga USB, Joysticks de repuesto, cable extensor USB, estuche original rigido, Maletin Original DJI, 6 filtros Fstop Labs (3 ND4 ND8, ND16 Y 3 polarizados)",
-      "Manuales originales",
-      "Excelente estado"
-    ],
-    "state": "reserved",
-    "purchaser": "11"
-  },
-  {
-    "name": "Candado Bicicleta 1",
-    "url": "https://www.homecenter.com.co/homecenter-co/product/461884/guaya-de-seguridad-con-sistema-de-clave/461884/",
-    "imageUrl": "img/candado-bicicleta-01.jpg",
-    "originalPrice": 35900,
-    "price": 25000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Candado/Gualla con clave de 4 digitos programable",
-      "Como nuevo"
-    ],
-    "state": "reserved",
-    "purchaser": "7"
   },
   {
     "name": "Candado Bicicleta 2",
@@ -360,31 +244,115 @@
     "purchaser": "7"
   },
   {
-    "name": "Cuello",
-    "url": "img/cuello.jpg",
-    "imageUrl": "img/cuello.jpg",
-    "originalPrice": 33240,
+    "name": "Maleta Camping roja",
+    "url": "img/maleta-camping-collage.jpg",
+    "imageUrl": "img/maleta-camping.jpg",
+    "originalPrice": 70000,
+    "price": 30000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Roja, capacidad 70 Litros (No incluye gatos)",
+      "Como nueva!"
+    ],
+    "state": "reserved",
+    "purchaser": "7"
+  },
+  {
+    "name": "Candado Bicicleta 1",
+    "url": "https://www.homecenter.com.co/homecenter-co/product/461884/guaya-de-seguridad-con-sistema-de-clave/461884/",
+    "imageUrl": "img/candado-bicicleta-01.jpg",
+    "originalPrice": 35900,
+    "price": 25000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Candado/Gualla con clave de 4 digitos programable",
+      "Como nuevo"
+    ],
+    "state": "reserved",
+    "purchaser": "7"
+  },
+  {
+    "name": "Juego 2 de Sillas Bar negras",
+    "url": "img/sillas-collage.jpg",
+    "imageUrl": "img/sillas.jpg",
+    "originalPrice": 300000,
+    "price": 180000,
+    "details": [
+      "ENTREGA 08 de Septiembre",
+      "Sillas graduables en altura",
+      "Como nuevas!"
+    ],
+    "state": "reserved",
+    "purchaser": "8"
+  },
+  {
+    "name": "Parlante Inalambrico Origaudio Boxanne",
+    "url": "https://origaudiopromo.com/product/boxanne-wireless-speaker-white/",
+    "imageUrl": "img/parlante.jpg",
     "price": 20000,
     "details": [
       "ENTREGA INMEDIATA",
-      "Un uso"
+      "Viene con cable microusb y 3.5mm",
+      "Nuevo en caja!"
     ],
-    "state": "available",
-    "purchaser": "id"
+    "state": "reserved",
+    "purchaser": "8"
   },
   {
-    "name": "Monitor LED LG Ultrawide 25 pulgadas 25UM58 mas brazo para escritorio",
-    "url": "https://www.lg.com/mx/monitores/lg-25UM58",
-    "imageUrl": "img/monitor-lg.jpg",
-    "originalPrice": 700000,
-    "price": 600000,
+    "name": "Bascula Xiaomi Mi Body Composition Scale 2",
+    "url": "https://www.mi.com/mx/product/mi-body-composition-scale-2/",
+    "imageUrl": "img/xiaomi-scale.png",
+    "originalPrice": 70000,
+    "price": 50000,
     "details": [
-      "ENTREGA 08 de Septiembre",
-      "Usado por menos de 2 años, Ultrawide, resolucion 2560 x 1080, 75Hz",
-      "Link referencia Brazo (Estandar VESA) https://ergonomus.co/producto/brazo-monitor-flexigas-eco/",
-      "Excelente estado"
+      "ENTREGA INMEDIATA",
+      "Bascula digital Xiaomi",
+      "Se integra con application de Smartphone. Peso, agua, porcentaje grasa, masa muscular/osea",
+      "Como nueva!"
     ],
-    "state": "available",
+    "state": "reserved",
+    "purchaser": "1"
+  },
+  {
+    "name": "Licuadora/Extractor Nutribullet Pro Original 900W",
+    "url": "https://nutribulletcolombia.com/product/nutribullet-900-watts/",
+    "imageUrl": "img/nutribullet.jpg",
+    "originalPrice": 320000,
+    "price": 250000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Con todos los accesorios, en caja original",
+      "Como nuevo!"
+    ],
+    "state": "reserved",
+    "purchaser": "19"
+  },
+  {
+    "name": "Parlante Google Home Mini Gris",
+    "url": "https://www.xataka.com/accesorios/google-home-mini-mas-pequeno-pero-con-las-mismas-prestaciones-que-su-hermano-mayor",
+    "imageUrl": "img/google-home-mini.jpg",
+    "originalPrice": 214000,
+    "price": 70000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Compatible con Google Assistant, comandos en Español e Ingles",
+      "Como nuevo!"
+    ],
+    "state": "reserved",
+    "purchaser": "1"
+  },
+  {
+    "name": "Parlante Google Home",
+    "url": "https://www.xataka.com/basics/todo-que-puedes-hacer-google-home-como-configurarlo-reyes-te-han-traido-uno",
+    "imageUrl": "img/google-home.jpg",
+    "originalPrice": 350000,
+    "price": 150000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Compatible con Google Assistant, comandos en Español e Ingles",
+      "Como nuevo!"
+    ],
+    "state": "reserved",
     "purchaser": "1"
   },
   {
@@ -459,6 +427,20 @@
     ],
     "state": "sold",
     "purchaser": "2"
+  },
+  {
+    "name": "Aspiradora Robot iRobot Roomba 675",
+    "url": "https://www.irobotcolombia.com/producto/roomba-675/",
+    "imageUrl": "img/roomba.jpg",
+    "originalPrice": 1270000,
+    "price": 550000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Compatible con Google Assistant, programacion desde App. 415 limpiezas realizadas",
+      "Buen estado!"
+    ],
+    "state": "sold",
+    "purchaser": "4"
   },
   {
     "name": "5 Vasos Cristar Schubert Rocks",
@@ -645,6 +627,24 @@
     ],
     "state": "sold",
     "purchaser": "17"
+  },
+  {
+    "name": "Drone DJI Mavic Air 1",
+    "url": "img/drone-collage.jpg",
+    "imageUrl": "img/drone.jpg",
+    "originalPrice": 4200000,
+    "price": 1800000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Drone con sensores frontales, posteriroes, inferiores. Rango 10Km, Altura maxima 5Km, 320 gramos. Camara con estabilizador",
+      "Viene con: Control con Joysticks (cables compatibles con USB-C, microUSB, Lighting (iPhone)), ",
+      "3 baterias de 20 minutos, protectores de helices, cargador hasta 4 baterias, 3 pares de repuestos de helices, ",
+      "adaptador carga USB, Joysticks de repuesto, cable extensor USB, estuche original rigido, Maletin Original DJI, 6 filtros Fstop Labs (3 ND4 ND8, ND16 Y 3 polarizados)",
+      "Manuales originales",
+      "Excelente estado"
+    ],
+    "state": "sold",
+    "purchaser": "11"
   },
   {
     "name": "Mueble de TV en L",
