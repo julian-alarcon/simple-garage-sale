@@ -238,7 +238,7 @@ const products = [
       "Con todos los accesorios, en caja original",
       "Como nuevo!"
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "19"
   },
   {
