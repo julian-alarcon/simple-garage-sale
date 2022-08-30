@@ -43,20 +43,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Mouse negro inalambrico Logitech M317",
-    "url": "img/mouse-collage.jpg",
-    "imageUrl": "img/mouse.jpg",
-    "originalPrice": 60000,
-    "price": 40000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Incluye bateria y adaptador USB",
-      "Excelente estado"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Teclado Inalambrico Logitech K375s",
     "url": "img/teclado-collage.jpg",
     "imageUrl": "img/teclado.jpg",
@@ -171,6 +157,20 @@
     ],
     "state": "reserved",
     "purchaser": "7"
+  },
+  {
+    "name": "Mouse negro inalambrico Logitech M317",
+    "url": "img/mouse-collage.jpg",
+    "imageUrl": "img/mouse.jpg",
+    "originalPrice": 60000,
+    "price": 40000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Incluye bateria y adaptador USB",
+      "Excelente estado"
+    ],
+    "state": "reserved",
+    "purchaser": "20"
   },
   {
     "name": "Maleta Camping roja",
