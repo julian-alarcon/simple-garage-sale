@@ -1,20 +1,5 @@
 const products = [
   {
-    name: "Juego de Alcoba, cama doble y mesas de noche",
-    url: "img/cama-collage.jpg",
-    imageUrl: "img/cama.jpg",
-    price: 1200000,
-    details: [
-      "ENTREGA 13 de Septiembre",
-      "1 cama doble, 2 mesas de noche",
-      "200 cm largo x 145 cm largo",
-      "Se entrega con 1 plumon, 2 Duvet",
-      "Como nuevo!"
-    ],
-    state: "available",
-    purchaser: "id"
-  },
-  {
     name: "Cuello",
     url: "img/cuello.jpg",
     imageUrl: "img/cuello.jpg",
@@ -23,21 +8,6 @@ const products = [
     details: [
       "ENTREGA INMEDIATA",
       "Un uso"
-    ],
-    state: "available",
-    purchaser: "id"
-  },
-  {
-    name: "Monitor LED LG Ultrawide 25 pulgadas 25UM58 mas brazo para escritorio",
-    url: "https://www.lg.com/mx/monitores/lg-25UM58",
-    imageUrl: "img/monitor-lg.jpg",
-    originalPrice: 700000,
-    price: 600000,
-    details: [
-      "ENTREGA 08 de Septiembre",
-      "Usado por menos de 2 años, Ultrawide, resolucion 2560 x 1080, 75Hz",
-      "Link referencia Brazo (Estandar VESA) https://ergonomus.co/producto/brazo-monitor-flexigas-eco/",
-      "Excelente estado"
     ],
     state: "available",
     purchaser: "id"
@@ -588,6 +558,36 @@ const products = [
     ],
     state: "sold",
     purchaser: "1"
+  },
+  {
+    name: "Monitor LED LG Ultrawide 25 pulgadas 25UM58 mas brazo para escritorio",
+    url: "https://www.lg.com/mx/monitores/lg-25UM58",
+    imageUrl: "img/monitor-lg.jpg",
+    originalPrice: 700000,
+    price: 600000,
+    details: [
+      "ENTREGA 08 de Septiembre",
+      "Usado por menos de 2 años, Ultrawide, resolucion 2560 x 1080, 75Hz",
+      "Link referencia Brazo (Estandar VESA) https://ergonomus.co/producto/brazo-monitor-flexigas-eco/",
+      "Excelente estado"
+    ],
+    state: "sold",
+    purchaser: "21"
+  },
+  {
+    name: "Juego de Alcoba, cama doble y mesas de noche",
+    url: "img/cama-collage.jpg",
+    imageUrl: "img/cama.jpg",
+    price: 700000,
+    details: [
+      "ENTREGA 13 de Septiembre",
+      "1 cama doble, 2 mesas de noche",
+      "200 cm largo x 145 cm largo",
+      "Se entrega con 1 plumon, 2 Duvet",
+      "Como nuevo!"
+    ],
+    state: "sold",
+    purchaser: "9"
   },
   {
     name: "Mueble de TV en L",
