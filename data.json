@@ -28,21 +28,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Bicicleta Todoterreno GW negro con gris",
-    "url": "img/bicicleta-gris-collage.jpg",
-    "imageUrl": "img/bicicleta-gris.jpg",
-    "originalPrice": 900000,
-    "price": 670000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Bicicleta cambios Shimano, frenos de disco GW, amortiguador frontal",
-      "RIN 29",
-      "Como nueva!"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Camara Olympus E-M10 Mark III",
     "url": "https://www.facebook.com/marketplace/item/3378056672436656/",
     "imageUrl": "img/camara-olympus.jpg",
@@ -588,6 +573,21 @@
     ],
     "state": "sold",
     "purchaser": "9"
+  },
+  {
+    "name": "Bicicleta Todoterreno GW negro con gris",
+    "url": "img/bicicleta-gris-collage.jpg",
+    "imageUrl": "img/bicicleta-gris.jpg",
+    "originalPrice": 900000,
+    "price": 550000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Bicicleta cambios Shimano, frenos de disco GW, amortiguador frontal",
+      "RIN 29",
+      "Como nueva!"
+    ],
+    "state": "sold",
+    "purchaser": "22"
   },
   {
     "name": "Mueble de TV en L",
