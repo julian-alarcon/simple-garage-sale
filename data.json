@@ -1,48 +1,5 @@
 [
   {
-    "name": "Cuello",
-    "url": "img/cuello.jpg",
-    "imageUrl": "img/cuello.jpg",
-    "originalPrice": 33240,
-    "price": 20000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Un uso"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Teclado Inalambrico Logitech K375s",
-    "url": "img/teclado-collage.jpg",
-    "imageUrl": "img/teclado.jpg",
-    "originalPrice": 198000,
-    "price": 100000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Compatible con Bluetooth o Logitech Unifying",
-      "Soporte de conexion a 3 dispositivos",
-      "Excelente estado"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Camara Olympus E-M10 Mark III",
-    "url": "https://www.facebook.com/marketplace/item/3378056672436656/",
-    "imageUrl": "img/camara-olympus.jpg",
-    "originalPrice": 2995000,
-    "price": 2800000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Camara Mirrorless con muy poco uso, perfecto estado 10/10",
-      "Se entrega: Camara E-M10 Mark III plateada, Lente M. Zuiko Digital 14-42mm 3.5 a 5.6, Correa original, Bateria, Cargador, Maletin Original Olympus, Cable de datos, Tarjeta, Tarjeta Sandisk SD 16 GB",
-      "Excelente estado"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Escritorio Beige",
     "imageUrl": "img/escritorio-beige.jpg",
     "url": "img/escritorio-blanco-collage.jpg",
@@ -57,11 +14,68 @@
     "purchaser": "id"
   },
   {
+    "name": "Teclado Inalambrico Logitech K375s",
+    "url": "img/teclado-collage.jpg",
+    "imageUrl": "img/teclado.jpg",
+    "originalPrice": 198000,
+    "price": 85000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Compatible con Bluetooth o Logitech Unifying",
+      "Soporte de conexion a 3 dispositivos",
+      "Excelente estado"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Audifonos Sony MDR-ZX310 con microfono",
+    "url": "img/audifonos-sony-mic-collage.jpg",
+    "imageUrl": "img/audifonos-sony-mic.jpg",
+    "originalPrice": 65900,
+    "price": 35000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Entrada de audio 3.5mm plegables con microfono",
+      "Como nuevos"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Cuello",
+    "url": "img/cuello.jpg",
+    "imageUrl": "img/cuello.jpg",
+    "originalPrice": 33240,
+    "price": 15000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Un uso"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Camara Olympus E-M10 Mark III",
+    "url": "https://www.facebook.com/marketplace/item/3378056672436656/",
+    "imageUrl": "img/camara-olympus.jpg",
+    "originalPrice": 2995000,
+    "price": 2600000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Camara Mirrorless con muy poco uso, perfecto estado 10/10",
+      "Se entrega: Camara E-M10 Mark III plateada, Lente M. Zuiko Digital 14-42mm 3.5 a 5.6, Correa original, Bateria, Cargador, Maletin Original Olympus, Cable de datos, Tarjeta, Tarjeta Sandisk SD 16 GB",
+      "Excelente estado"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Carpa 2 persona Quechua Arpenaz 2",
     "url": "img/carpa-collage.jpg",
     "imageUrl": "img/carpa.jpg",
     "originalPrice": 250000,
-    "price": 170000,
+    "price": 150000,
     "details": [
       "ENTREGA INMEDIATA",
       "Impermeable, blanca, 1.3 KG, Alto: 105cm - Largo: 200cm - Ancho: 120cm",
@@ -83,77 +97,6 @@
     ],
     "state": "available",
     "purchaser": "id"
-  },
-  {
-    "name": "Casco bicicleta Azul",
-    "imageUrl": "img/casco-azul.jpg",
-    "url": "https://www.fortecampione.com/producto/casco-evolution-mv29-mate/",
-    "originalPrice": 80000,
-    "price": 40000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Casco de bicicleta",
-      "Buen estado! Poco uso"
-    ],
-    "state": "reserved",
-    "purchaser": "7"
-  },
-  {
-    "name": "Monitor Samsung 24' Led HDMI mas brazo para escritorio",
-    "imageUrl": "img/monitor-samsung.jpg",
-    "url": "img/monitor-samsung-collage.jpg",
-    "originalPrice": 411000,
-    "price": 250000,
-    "details": [
-      "ENTREGA 08 de Septiembre",
-      "Link referencia Monitor https://www.mercadolibre.com.co/monitor-gamer-samsung-s24f350fh-led-24-negro-100v240v/p/MCO14946790",
-      "Link referencia Brazo https://ergonomus.co/producto/brazo-monitor-flexigas-eco/",
-      "Perfecto funcionamiento!(Al momento de instalar el brazo se partio en la parte trasera, daño muy inusculo que no afecta el funcionamiento)"
-    ],
-    "state": "reserved",
-    "purchaser": "7"
-  },
-  {
-    "name": "Mouse negro inalambrico Logitech M317",
-    "url": "img/mouse-collage.jpg",
-    "imageUrl": "img/mouse.jpg",
-    "originalPrice": 60000,
-    "price": 40000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Incluye bateria y adaptador USB",
-      "Excelente estado"
-    ],
-    "state": "reserved",
-    "purchaser": "20"
-  },
-  {
-    "name": "Maleta Camping roja",
-    "url": "img/maleta-camping-collage.jpg",
-    "imageUrl": "img/maleta-camping.jpg",
-    "originalPrice": 70000,
-    "price": 30000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Roja, capacidad 70 Litros (No incluye gatos)",
-      "Como nueva!"
-    ],
-    "state": "reserved",
-    "purchaser": "7"
-  },
-  {
-    "name": "Candado Bicicleta 1",
-    "url": "https://www.homecenter.com.co/homecenter-co/product/461884/guaya-de-seguridad-con-sistema-de-clave/461884/",
-    "imageUrl": "img/candado-bicicleta-01.jpg",
-    "originalPrice": 35900,
-    "price": 25000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Candado/Gualla con clave de 4 digitos programable",
-      "Como nuevo"
-    ],
-    "state": "reserved",
-    "purchaser": "7"
   },
   {
     "name": "Juego 2 de Sillas Bar negras",
@@ -181,6 +124,77 @@
     ],
     "state": "reserved",
     "purchaser": "8"
+  },
+  {
+    "name": "Casco bicicleta Azul",
+    "imageUrl": "img/casco-azul.jpg",
+    "url": "https://www.fortecampione.com/producto/casco-evolution-mv29-mate/",
+    "originalPrice": 80000,
+    "price": 40000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Casco de bicicleta",
+      "Buen estado! Poco uso"
+    ],
+    "state": "sold",
+    "purchaser": "7"
+  },
+  {
+    "name": "Monitor Samsung 24' Led HDMI mas brazo para escritorio",
+    "imageUrl": "img/monitor-samsung.jpg",
+    "url": "img/monitor-samsung-collage.jpg",
+    "originalPrice": 411000,
+    "price": 250000,
+    "details": [
+      "ENTREGA 08 de Septiembre",
+      "Link referencia Monitor https://www.mercadolibre.com.co/monitor-gamer-samsung-s24f350fh-led-24-negro-100v240v/p/MCO14946790",
+      "Link referencia Brazo https://ergonomus.co/producto/brazo-monitor-flexigas-eco/",
+      "Perfecto funcionamiento!(Al momento de instalar el brazo se partio en la parte trasera, daño muy inusculo que no afecta el funcionamiento)"
+    ],
+    "state": "sold",
+    "purchaser": "7"
+  },
+  {
+    "name": "Mouse negro inalambrico Logitech M317",
+    "url": "img/mouse-collage.jpg",
+    "imageUrl": "img/mouse.jpg",
+    "originalPrice": 60000,
+    "price": 40000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Incluye bateria y adaptador USB",
+      "Excelente estado"
+    ],
+    "state": "sold",
+    "purchaser": "20"
+  },
+  {
+    "name": "Maleta Camping roja",
+    "url": "img/maleta-camping-collage.jpg",
+    "imageUrl": "img/maleta-camping.jpg",
+    "originalPrice": 70000,
+    "price": 30000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Roja, capacidad 70 Litros (No incluye gatos)",
+      "Como nueva!"
+    ],
+    "state": "sold",
+    "purchaser": "7"
+  },
+  {
+    "name": "Candado Bicicleta 1",
+    "url": "https://www.homecenter.com.co/homecenter-co/product/461884/guaya-de-seguridad-con-sistema-de-clave/461884/",
+    "imageUrl": "img/candado-bicicleta-01.jpg",
+    "originalPrice": 35900,
+    "price": 25000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Candado/Gualla con clave de 4 digitos programable",
+      "Como nuevo"
+    ],
+    "state": "sold",
+    "purchaser": "7"
   },
   {
     "name": "Licuadora/Extractor Nutribullet Pro Original 900W",
