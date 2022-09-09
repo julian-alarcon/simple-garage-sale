@@ -1,14 +1,14 @@
 const products = [
   {
-    name: "Escritorio Beige",
-    imageUrl: "img/escritorio-beige.jpg",
-    url: "img/escritorio-blanco-collage.jpg",
-    originalPrice: 350000,
-    price: 270000,
+    name: "Sacacorchos",
+    url: "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    imageUrl: "img/sacacorchos.jpg",
+    originalPrice: 40000,
+    price: 20000,
     details: [
-      "ENTREGA 08 de Septiembre",
-      "Profundida 60cm ancho 110cm altura 74cm",
-      "Como nuevo!"
+      "ENTREGA INMEDIATA",
+      "Sacacorchos/destapador",
+      "Como nuevo"
     ],
     state: "available",
     purchaser: "id"
@@ -24,20 +24,6 @@ const products = [
       "Compatible con Bluetooth o Logitech Unifying",
       "Soporte de conexion a 3 dispositivos",
       "Excelente estado"
-    ],
-    state: "available",
-    purchaser: "id"
-  },
-  {
-    name: "Audifonos Sony MDR-ZX310 con microfono",
-    url: "img/audifonos-sony-mic-collage.jpg",
-    imageUrl: "img/audifonos-sony-mic.jpg",
-    originalPrice: 65900,
-    price: 35000,
-    details: [
-      "ENTREGA INMEDIATA",
-      "Entrada de audio 3.5mm plegables con microfono",
-      "Como nuevos"
     ],
     state: "available",
     purchaser: "id"
@@ -71,6 +57,20 @@ const products = [
     purchaser: "id"
   },
   {
+    name: "Escritorio Beige",
+    imageUrl: "img/escritorio-beige.jpg",
+    url: "img/escritorio-blanco-collage.jpg",
+    originalPrice: 350000,
+    price: 270000,
+    details: [
+      "ENTREGA 08 de Septiembre",
+      "Profundida 60cm ancho 110cm altura 74cm",
+      "Como nuevo!"
+    ],
+    state: "sold",
+    purchaser: "10"
+  },
+  {
     name: "Carpa 2 persona Quechua Arpenaz 2",
     url: "img/carpa-collage.jpg",
     imageUrl: "img/carpa.jpg",
@@ -81,22 +81,8 @@ const products = [
       "Impermeable, blanca, 1.3 KG, Alto: 105cm - Largo: 200cm - Ancho: 120cm",
       "Como nueva!"
     ],
-    state: "available",
-    purchaser: "id"
-  },
-  {
-    name: "Sacacorchos",
-    url: "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
-    imageUrl: "img/sacacorchos.jpg",
-    originalPrice: 40000,
-    price: 20000,
-    details: [
-      "ENTREGA INMEDIATA",
-      "Sacacorchos/destapador",
-      "Como nuevo"
-    ],
-    state: "available",
-    purchaser: "id"
+    state: "sold",
+    purchaser: "23"
   },
   {
     name: "Juego 2 de Sillas Bar negras",
@@ -109,7 +95,7 @@ const products = [
       "Sillas graduables en altura",
       "Como nuevas!"
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "8"
   },
   {
@@ -122,7 +108,7 @@ const products = [
       "Viene con cable microusb y 3.5mm",
       "Nuevo en caja!"
     ],
-    state: "reserved",
+    state: "sold",
     purchaser: "8"
   },
   {
@@ -167,6 +153,20 @@ const products = [
     ],
     state: "sold",
     purchaser: "20"
+  },
+  {
+    name: "Audifonos Sony MDR-ZX310 con microfono",
+    url: "img/audifonos-sony-mic-collage.jpg",
+    imageUrl: "img/audifonos-sony-mic.jpg",
+    originalPrice: 65900,
+    price: 35000,
+    details: [
+      "ENTREGA INMEDIATA",
+      "Entrada de audio 3.5mm plegables con microfono",
+      "Como nuevos"
+    ],
+    state: "sold",
+    purchaser: "14"
   },
   {
     name: "Maleta Camping roja",
