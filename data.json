@@ -14,21 +14,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Teclado Inalambrico Logitech K375s",
-    "url": "img/teclado-collage.jpg",
-    "imageUrl": "img/teclado.jpg",
-    "originalPrice": 198000,
-    "price": 85000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Compatible con Bluetooth o Logitech Unifying",
-      "Soporte de conexion a 3 dispositivos",
-      "Excelente estado"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Cuello",
     "url": "img/cuello.jpg",
     "imageUrl": "img/cuello.jpg",
@@ -55,6 +40,21 @@
     ],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Teclado Inalambrico Logitech K375s",
+    "url": "img/teclado-collage.jpg",
+    "imageUrl": "img/teclado.jpg",
+    "originalPrice": 198000,
+    "price": 85000,
+    "details": [
+      "ENTREGA INMEDIATA",
+      "Compatible con Bluetooth o Logitech Unifying",
+      "Soporte de conexion a 3 dispositivos",
+      "Excelente estado"
+    ],
+    "state": "sold",
+    "purchaser": "24"
   },
   {
     "name": "Escritorio Beige",
