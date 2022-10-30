@@ -373,7 +373,7 @@ const products = [
     url: "https://www.linio.com.co/p/televisor-samsung-48-4k-un48ju6100-led-negro-tpq4wk",
     imageUrl: "img/tv.jpg",
     originalPrice: 1899900,
-    price: 1000000,
+    price: 800000,
     details: [
       "ENTREGA 11 de Septiembre",
       "Netflix/YouTube/PrimeVideo/Spotify",
