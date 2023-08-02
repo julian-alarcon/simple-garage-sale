@@ -1,10 +1,5 @@
 'use strict'
 
-// var products = []
-// fetch('./data.json')
-// .then(response => response.json())
-// .then(products => console.log(products))
-
 class App extends React.PureComponent {
   render () {
     //const sortedProducts = this.props.products.sort((a, b) => a.price - b.price)
@@ -101,7 +96,14 @@ const ProductCard = props => {
   );
 }
 
-ReactDOM.render(
-  <App products={products} />,
-  document.getElementById('root')
-)
+// Load the data.json file and parse it
+fetch('./data.json')
+  .then(response => response.json())
+  .then(productsData => {
+    // Assuming the JSON contains an array of products
+    const products = productsData;
+    ReactDOM.render(
+      <App products={products} />,
+      document.getElementById('root')
+    );
+  });
